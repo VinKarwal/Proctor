@@ -1,0 +1,13 @@
+[S.no,Course,Branch,Sem,Subject Name,Subject Code,Class with Section,"Group (A,B)",Internal Examiner,Lab Number,Time Slot,Date,External Examiner]
+1,B.E.,AIML,4,Project Based Learning in Java Lab,21CSP-287,21AML-11,B,Dr. Alankrita Agrawal,D2-306,9:30 AM - 11:10 AM,2024-03-29,Mr. Vishal Kumar Kanaujia
+2,B.E.,AIML,4,Project Based Learning in Java Lab,21CSP-287,21AML-12,A,Dr. Alankrita Agrawal,D2-306,11:10 AM - 12:50 PM,2024-03-29,Mr. Mohit Lalit
+3,B.E.,AIML,4,Machine Learning lab,21CSH-286,21AML-4,B,Dr. Anita Sardana,D2-306,1:00 PM - 2:40 PM,2024-03-29,Mr. Yogiraj Anil Bhale
+4,B.E.,AIML,4,Machine Learning lab,21CSH-286,21AML-11,B,Dr. Anita Sardana,D2-307,11:10 AM - 12:50 PM,2024-03-30,Dr. Gurwinder Singh
+5,B.E.,AIML,4,Design and Analysis of Algorithm Lab,21CSH-282,21AML-3,B,Mr Jagjeet Singh,D2-306,2:40 PM - 4:20 PM,2024-03-29,Ms. Shubhangi Mishra
+7,B.E.,AIML,4,Design and Analysis of Algorithm Lab,21CSH-282,21AML-12,A,Mr Jagjeet Singh,D2-307,9:30 AM - 11:10 AM,2024-03-30,Mr. Abhishek Ankur
+13,B.E.,AIML,4,Design and Analysis of Algorithm Lab,21CSH-282,21AML-4,B,Dr. Kalpana Singh,D2-307,2:40 PM - 4:20 PM,2024-03-30,Mr. Vikash Kumar: E13657
+16,B.E.,AIML,4,Project Based Learning in Java Lab,21CSP-287,21AML-1,A,Mr. Mukesh Birla,D2-307,1:00 PM - 2:40 PM,2024-03-30,Mr. Ankur Sharma
+18,B.E.,AIML,4,Machine Learning lab,21CSH-286,21AML-12,A,Dr. Mahadev,D4-104,1:00 PM - 2:40 PM,2024-03-28,Mrs. Somdatta Patra
+32,B.E.,AIML,4,Design and Analysis of Algorithm Lab,21CSH-282,21AML-11,B,Mr. Aadi Pratap,D4-104,2:40 PM - 4:20 PM,2024-03-28,Ms.Samriti: E13663
+33,B.E.,AIML,4,Machine Learning lab,21CSH-286,21AML-1,A,Mr. Arun Mittal,D4-104,9:30 AM - 11:10 AM,2024-03-28,Dr. Kalpana Singh
+38,B.E.,AIML,4,Project Based Learning in Java Lab,21CSP-287,21AML-4,B,Mr. Dayal Chand,D4-104,11:10 AM - 12:50 PM,2024-03-28,Ms. Deeksha

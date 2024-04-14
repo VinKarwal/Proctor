@@ -1,0 +1,35 @@
+Sr No,Branch,Semester ,Subject Name,Subject Code,Class with Section,"Group (A,B,C,D)",Total Students,Internal Examiner,EMP CODE
+1,CC,4TH,Design and Analysis of Algorithms,22CSH-282,22BCC-1,A,38,ANKUR GUPTA,E15733
+2,CC,4TH,Design and Analysis of Algorithms,22CSH-282,22BCC-1,B,32,ANKUR GUPTA,E15733
+3,CC,4TH,Programming in Python,22CSH-287,22BCC-1,A,38,Ms. Rubbina,E16582
+4,CC,4TH,Programming in Python,22CSH-287,22BCC-1,B,32,Ms. Rubbina,E16582
+5,CC,4TH,Design and Analysis of Algorithms,22CSH-282,22BCC-2,A,35,ANKUR GUPTA,E15733
+6,CC,4TH,Programming in Python,22CSH-287,22BCC-2,A,35,Ms. Geetanjali Pandey,E16323
+7,CC,6TH ,Network Operating System,21CSH-397,21BCC-1,A,26,Dr. Ankit Garg,E14961
+8,CC,6TH ,Network Operating System,21CSH-397,21BCC-1,B,24,Dr. Ankit Garg,E14961
+9,CC,6TH ,Technical Training,21CSP-382,21BCC-1,A,26,Shubham Banik,E16661
+10,CC,6TH ,Technical Training,21CSP-382,21BCC-1,B,24,Shubham Banik,E16661
+11,CC,6TH ,Agile Development Methodologies,21CSH-383,21BCC-1,A,26,Ms. Pavandeep Kaur,E15947
+12,CC,6TH ,Agile Development Methodologies,21CSH-383,21BCC-1,B,24,Dr. Dhawan Singh,E14960
+13,CC,6TH ,Web Services,21CSH-392,21BCC-1,A,26,Ms. Bhavna Nayyar,E15505
+14,CC,6TH ,Web Services,21CSH-392,21BCC-1,B,24,Ms. Bhavna Nayyar,E15505
+15,CC,6TH ,Network Operating System,21CSH-397,21BCC-2,A,26,Dr. Ankit Garg,E14961
+16,CC,6TH ,Network Operating System,21CSH-397,21BCC-2,B,28,Dr. Ankit Garg,E14961
+17,CC,6TH ,Technical Training,21CSP-382,21BCC-2,A,26,Shubham Banik,E16661
+18,CC,6TH ,Technical Training,21CSP-382,21BCC-2,B,28,Shubham Banik,E16661
+19,CC,6TH ,Agile Development Methodologies,21CSH-383,21BCC-2,A,26,Ms. Pavandeep Kaur,E15947
+20,CC,6TH ,Agile Development Methodologies,21CSH-383,21BCC-2,B,28,Ms. Pavandeep Kaur,E15947
+21,CC,6TH ,Web Services,21CSH-392,21BCC-2,A,26,Ms. Bhavna Nayyar,E15505
+22,CC,6TH ,Web Services,21CSH-392,21BCC-2,B,28,Ms. Bhavna Nayyar,E15505
+23,CC,8TH ,Artificial Intelligence and Natural Language Processing Lab,20CSP-491,20BCC-1,A,35,Dr. Monika Singh,E11032
+24,CC,8TH ,Artificial Intelligence and Natural Language Processing Lab,20CSP-491,20BCC-1,B,34,Dr. Monika Singh,E11032
+25,CC,8TH ,Cloud Security Lab,20CSA-487,20BCC-1,A,35,Dr. Deepti Sharma,E14308
+26,CC,8TH ,Cloud Security Lab,20CSA-487,20BCC-1,B,34,Dr. Deepti Sharma,E14308
+27,CC,8TH ,Digital Image Processing Lab,20CSP-483,20BCC-1,A,35,Dr. Dhawan Singh,E14960
+28,CC,8TH ,Digital Image Processing Lab,20CSP-483,20BCC-1,B,34,Dr. Dhawan Singh,E14960
+29,CC,8TH ,Artificial Intelligence and Natural Language Processing Lab,20CSP-491,20BCC-2,A,35,Dr. Monika Singh,E11032
+30,CC,8TH ,Artificial Intelligence and Natural Language Processing Lab,20CSP-491,20BCC-2,B,35,Dr. Monika Singh,E11032
+31,CC,8TH ,Cloud Security Lab,20CSA-487,20BCC-2,A,35,Dr. Deepti Sharma,E14308
+32,CC,8TH ,Cloud Security Lab,20CSA-487,20BCC-2,B,35,Dr. Deepti Sharma,E14308
+33,CC,8TH ,Digital Image Processing Lab,20CSP-483,20BCC-2,A,35,Dr. Ranjan Walia,E14288
+34,CC,8TH ,Digital Image Processing Lab,20CSP-483,20BCC-2,B,35,Dr. Ranjan Walia,E14288
