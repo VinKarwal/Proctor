@@ -1,35 +1,35 @@
 Sr No,Branch,Semester ,Subject Name,Subject Code,Class with Section,"Group (A,B,C,D)",Total Students,Internal Examiner,EMP CODE,Lab Number,Time Slot,Date,External Examiner
-1,CC,4TH,Design and Analysis of Algorithms,22CSH-282,22BCC-1,A,38,ANKUR GUPTA,E15733,D2-207,9:30 AM - 11:00 AM,2024-04-25,Ms. Rubbina
-2,CC,4TH,Design and Analysis of Algorithms,22CSH-282,22BCC-1,B,32,ANKUR GUPTA,E15733,D2-207,9:30 AM - 11:00 AM,2024-04-26,Ms. Rubbina
-3,CC,4TH,Programming in Python,22CSH-287,22BCC-1,A,38,Ms. Rubbina,E16582,D2-207,9:30 AM - 11:00 AM,2024-04-27,ANKUR GUPTA
-4,CC,4TH,Programming in Python,22CSH-287,22BCC-1,B,32,Ms. Rubbina,E16582,D2-207,9:30 AM - 11:00 AM,2024-04-29,ANKUR GUPTA
-5,CC,4TH,Design and Analysis of Algorithms,22CSH-282,22BCC-2,A,35,ANKUR GUPTA,E15733,D2-207,11:15 AM - 12:45 PM,2024-04-25,Ms. Geetanjali Pandey
-6,CC,4TH,Programming in Python,22CSH-287,22BCC-2,A,35,Ms. Geetanjali Pandey,E16323,D2-207,11:15 AM - 12:45 PM,2024-04-26,ANKUR GUPTA
-7,CC,6TH ,Network Operating System,21CSH-397,21BCC-1,A,26,Dr. Ankit Garg,E14961,D2-207,11:15 AM - 12:45 PM,2024-04-27,Ms. Rubbina
-8,CC,6TH ,Network Operating System,21CSH-397,21BCC-1,B,24,Dr. Ankit Garg,E14961,D2-207,11:15 AM - 12:45 PM,2024-04-29,Ms. Rubbina
-9,CC,6TH ,Technical Training,21CSP-382,21BCC-1,A,26,Shubham Banik,E16661,D2-207,1:15 PM - 2:45 PM,2024-04-25,ANKUR GUPTA
-10,CC,6TH ,Technical Training,21CSP-382,21BCC-1,B,24,Shubham Banik,E16661,D2-207,1:15 PM - 2:45 PM,2024-04-26,Ms. Rubbina
-11,CC,6TH ,Agile Development Methodologies,21CSH-383,21BCC-1,A,26,Ms. Pavandeep Kaur,E15947,D2-207,1:15 PM - 2:45 PM,2024-04-27,ANKUR GUPTA
-12,CC,6TH ,Agile Development Methodologies,21CSH-383,21BCC-1,B,24,Dr. Dhawan Singh,E14960,D2-207,1:15 PM - 2:45 PM,2024-04-29,ANKUR GUPTA
-13,CC,6TH ,Web Services,21CSH-392,21BCC-1,A,26,Ms. Bhavna Nayyar,E15505,D2-207,3:00 PM - 4:30 PM,2024-04-25,Ms. Rubbina
-14,CC,6TH ,Web Services,21CSH-392,21BCC-1,B,24,Ms. Bhavna Nayyar,E15505,D2-207,3:00 PM - 4:30 PM,2024-04-26,ANKUR GUPTA
-15,CC,6TH ,Network Operating System,21CSH-397,21BCC-2,A,26,Dr. Ankit Garg,E14961,D2-207,3:00 PM - 4:30 PM,2024-04-27,Ms. Rubbina
-16,CC,6TH ,Network Operating System,21CSH-397,21BCC-2,B,28,Dr. Ankit Garg,E14961,D2-207,3:00 PM - 4:30 PM,2024-04-29,Ms. Rubbina
-17,CC,6TH ,Technical Training,21CSP-382,21BCC-2,A,26,Shubham Banik,E16661,D2-306,9:30 AM - 11:00 AM,2024-04-25,ANKUR GUPTA
-18,CC,6TH ,Technical Training,21CSP-382,21BCC-2,B,28,Shubham Banik,E16661,D2-306,9:30 AM - 11:00 AM,2024-04-26,Ms. Geetanjali Pandey
-19,CC,6TH ,Agile Development Methodologies,21CSH-383,21BCC-2,A,26,Ms. Pavandeep Kaur,E15947,D2-306,9:30 AM - 11:00 AM,2024-04-27,Ms. Geetanjali Pandey
-20,CC,6TH ,Agile Development Methodologies,21CSH-383,21BCC-2,B,28,Ms. Pavandeep Kaur,E15947,D2-306,9:30 AM - 11:00 AM,2024-04-29,Ms. Geetanjali Pandey
-21,CC,6TH ,Web Services,21CSH-392,21BCC-2,A,26,Ms. Bhavna Nayyar,E15505,D2-306,11:15 AM - 12:45 PM,2024-04-25,Ms. Geetanjali Pandey
-22,CC,6TH ,Web Services,21CSH-392,21BCC-2,B,28,Ms. Bhavna Nayyar,E15505,D2-306,11:15 AM - 12:45 PM,2024-04-26,Dr. Ankit Garg
-23,CC,8TH ,Artificial Intelligence and Natural Language Processing Lab,20CSP-491,20BCC-1,A,35,Dr. Monika Singh,E11032,D2-306,11:15 AM - 12:45 PM,2024-04-27,Dr. Ankit Garg
-24,CC,8TH ,Artificial Intelligence and Natural Language Processing Lab,20CSP-491,20BCC-1,B,34,Dr. Monika Singh,E11032,D2-306,11:15 AM - 12:45 PM,2024-04-29,Dr. Ankit Garg
-25,CC,8TH ,Cloud Security Lab,20CSA-487,20BCC-1,A,35,Dr. Deepti Sharma,E14308,D2-306,1:15 PM - 2:45 PM,2024-04-25,Dr. Ankit Garg
-26,CC,8TH ,Cloud Security Lab,20CSA-487,20BCC-1,B,34,Dr. Deepti Sharma,E14308,D2-306,1:15 PM - 2:45 PM,2024-04-26,Ms. Geetanjali Pandey
-27,CC,8TH ,Digital Image Processing Lab,20CSP-483,20BCC-1,A,35,Dr. Dhawan Singh,E14960,D2-306,1:15 PM - 2:45 PM,2024-04-27,Ms. Geetanjali Pandey
-28,CC,8TH ,Digital Image Processing Lab,20CSP-483,20BCC-1,B,34,Dr. Dhawan Singh,E14960,D2-306,1:15 PM - 2:45 PM,2024-04-29,Ms. Geetanjali Pandey
-29,CC,8TH ,Artificial Intelligence and Natural Language Processing Lab,20CSP-491,20BCC-2,A,35,Dr. Monika Singh,E11032,D2-306,3:00 PM - 4:30 PM,2024-04-25,Shubham Banik
-30,CC,8TH ,Artificial Intelligence and Natural Language Processing Lab,20CSP-491,20BCC-2,B,35,Dr. Monika Singh,E11032,D2-306,3:00 PM - 4:30 PM,2024-04-26,Dr. Ankit Garg
-31,CC,8TH ,Cloud Security Lab,20CSA-487,20BCC-2,A,35,Dr. Deepti Sharma,E14308,D2-306,3:00 PM - 4:30 PM,2024-04-27,Dr. Ankit Garg
-32,CC,8TH ,Cloud Security Lab,20CSA-487,20BCC-2,B,35,Dr. Deepti Sharma,E14308,D2-306,3:00 PM - 4:30 PM,2024-04-29,Dr. Ankit Garg
-33,CC,8TH ,Digital Image Processing Lab,20CSP-483,20BCC-2,A,35,Dr. Ranjan Walia,E14288,D2-307,9:30 AM - 11:00 AM,2024-04-25,Dr. Ankit Garg
-34,CC,8TH ,Digital Image Processing Lab,20CSP-483,20BCC-2,B,35,Dr. Ranjan Walia,E14288,D2-307,9:30 AM - 11:00 AM,2024-04-26,Shubham Banik
+1,CC,4TH,Design and Analysis of Algorithms,22CSH-282,22BCC-1,A,38,ANKUR GUPTA,E15733,D2-207,9:30 AM - 11:00 AM,2024-04-25,Ms. Geetanjali Pandey
+2,CC,4TH,Design and Analysis of Algorithms,22CSH-282,22BCC-1,B,32,ANKUR GUPTA,E15733,D2-207,9:30 AM - 11:00 AM,2024-04-26,Dr. Dhawan Singh
+3,CC,4TH,Programming in Python,22CSH-287,22BCC-1,A,38,Ms. Rubbina,E16582,D2-207,9:30 AM - 11:00 AM,2024-04-27,Ms. Bhavna Nayyar
+4,CC,4TH,Programming in Python,22CSH-287,22BCC-1,B,32,Ms. Rubbina,E16582,D2-207,9:30 AM - 11:00 AM,2024-04-29,Dr. Monika Singh
+5,CC,4TH,Design and Analysis of Algorithms,22CSH-282,22BCC-2,A,35,ANKUR GUPTA,E15733,D2-207,11:15 AM - 12:45 PM,2024-04-25,Shubham Banik
+6,CC,4TH,Programming in Python,22CSH-287,22BCC-2,A,35,Ms. Geetanjali Pandey,E16323,D2-207,11:15 AM - 12:45 PM,2024-04-26,Ms. Pavandeep Kaur
+7,CC,6TH ,Network Operating System,21CSH-397,21BCC-1,A,26,Dr. Ankit Garg,E14961,D2-207,11:15 AM - 12:45 PM,2024-04-27,Dr. Ranjan Walia
+8,CC,6TH ,Network Operating System,21CSH-397,21BCC-1,B,24,Dr. Ankit Garg,E14961,D2-207,11:15 AM - 12:45 PM,2024-04-29,Dr. Deepti Sharma
+9,CC,6TH ,Technical Training,21CSP-382,21BCC-1,A,26,Shubham Banik,E16661,D2-207,1:15 PM - 2:45 PM,2024-04-25,Dr. Dhawan Singh
+10,CC,6TH ,Technical Training,21CSP-382,21BCC-1,B,24,Shubham Banik,E16661,D2-207,1:15 PM - 2:45 PM,2024-04-26,Ms. Bhavna Nayyar
+11,CC,6TH ,Agile Development Methodologies,21CSH-383,21BCC-1,A,26,Ms. Pavandeep Kaur,E15947,D2-207,1:15 PM - 2:45 PM,2024-04-27,Dr. Monika Singh
+12,CC,6TH ,Agile Development Methodologies,21CSH-383,21BCC-1,B,24,Dr. Dhawan Singh,E14960,D2-207,1:15 PM - 2:45 PM,2024-04-29,Dr. Ranjan Walia
+13,CC,6TH ,Web Services,21CSH-392,21BCC-1,A,26,Ms. Bhavna Nayyar,E15505,D2-207,3:00 PM - 4:30 PM,2024-04-25,Dr. Deepti Sharma
+14,CC,6TH ,Web Services,21CSH-392,21BCC-1,B,24,Ms. Bhavna Nayyar,E15505,D2-207,3:00 PM - 4:30 PM,2024-04-26,Ms. Geetanjali Pandey
+15,CC,6TH ,Network Operating System,21CSH-397,21BCC-2,A,26,Dr. Ankit Garg,E14961,D2-207,3:00 PM - 4:30 PM,2024-04-29,Dr. Monika Singh
+16,CC,6TH ,Network Operating System,21CSH-397,21BCC-2,B,28,Dr. Ankit Garg,E14961,D2-207,3:00 PM - 4:30 PM,2024-04-27,Ms. Rubbina
+17,CC,6TH ,Technical Training,21CSP-382,21BCC-2,A,26,Shubham Banik,E16661,D2-306,9:30 AM - 11:00 AM,2024-04-25,Ms. Pavandeep Kaur
+18,CC,6TH ,Technical Training,21CSP-382,21BCC-2,B,28,Shubham Banik,E16661,D2-306,9:30 AM - 11:00 AM,2024-04-26,Dr. Ranjan Walia
+19,CC,6TH ,Agile Development Methodologies,21CSH-383,21BCC-2,A,26,Ms. Pavandeep Kaur,E15947,D2-306,9:30 AM - 11:00 AM,2024-04-27,Dr. Deepti Sharma
+20,CC,6TH ,Agile Development Methodologies,21CSH-383,21BCC-2,B,28,Ms. Pavandeep Kaur,E15947,D2-306,9:30 AM - 11:00 AM,2024-04-29,ANKUR GUPTA
+21,CC,6TH ,Web Services,21CSH-392,21BCC-2,A,26,Ms. Bhavna Nayyar,E15505,D2-306,11:15 AM - 12:45 PM,2024-04-27,Ms. Geetanjali Pandey
+22,CC,6TH ,Web Services,21CSH-392,21BCC-2,B,28,Ms. Bhavna Nayyar,E15505,D2-306,11:15 AM - 12:45 PM,2024-04-29,Dr. Dhawan Singh
+23,CC,8TH ,Artificial Intelligence and Natural Language Processing Lab,20CSP-491,20BCC-1,A,35,Dr. Monika Singh,E11032,D2-306,11:15 AM - 12:45 PM,2024-04-25,Ms. Rubbina
+24,CC,8TH ,Artificial Intelligence and Natural Language Processing Lab,20CSP-491,20BCC-1,B,34,Dr. Monika Singh,E11032,D2-306,1:15 PM - 2:45 PM,2024-04-25,Dr. Ranjan Walia
+25,CC,8TH ,Cloud Security Lab,20CSA-487,20BCC-1,A,35,Dr. Deepti Sharma,E14308,D2-306,11:15 AM - 12:45 PM,2024-04-26,ANKUR GUPTA
+26,CC,8TH ,Cloud Security Lab,20CSA-487,20BCC-1,B,34,Dr. Deepti Sharma,E14308,D2-306,1:15 PM - 2:45 PM,2024-04-29,Ms. Geetanjali Pandey
+27,CC,8TH ,Digital Image Processing Lab,20CSP-483,20BCC-1,A,35,Dr. Dhawan Singh,E14960,D2-306,1:15 PM - 2:45 PM,2024-04-26,Ms. Rubbina
+28,CC,8TH ,Digital Image Processing Lab,20CSP-483,20BCC-1,B,34,Dr. Dhawan Singh,E14960,D2-306,3:00 PM - 4:30 PM,2024-04-26,Dr. Ranjan Walia
+29,CC,8TH ,Artificial Intelligence and Natural Language Processing Lab,20CSP-491,20BCC-2,A,35,Dr. Monika Singh,E11032,D2-306,1:15 PM - 2:45 PM,2024-04-27,Dr. Ankit Garg
+30,CC,8TH ,Artificial Intelligence and Natural Language Processing Lab,20CSP-491,20BCC-2,B,35,Dr. Monika Singh,E11032,D2-306,3:00 PM - 4:30 PM,2024-04-25,ANKUR GUPTA
+31,CC,8TH ,Cloud Security Lab,20CSA-487,20BCC-2,A,35,Dr. Deepti Sharma,E14308,D2-306,3:00 PM - 4:30 PM,2024-04-27,Ms. Geetanjali Pandey
+32,CC,8TH ,Cloud Security Lab,20CSA-487,20BCC-2,B,35,Dr. Deepti Sharma,E14308,D2-306,3:00 PM - 4:30 PM,2024-04-29,Ms. Rubbina
+33,CC,8TH ,Digital Image Processing Lab,20CSP-483,20BCC-2,A,35,Dr. Ranjan Walia,E14288,D2-307,9:30 AM - 11:00 AM,2024-04-27,Shubham Banik
+34,CC,8TH ,Digital Image Processing Lab,20CSP-483,20BCC-2,B,35,Dr. Ranjan Walia,E14288,D2-307,11:15 AM - 12:45 PM,2024-04-27,Ms. Pavandeep Kaur
