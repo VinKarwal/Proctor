@@ -3,11 +3,33 @@ from itertools import product
 import pandas as pd
 from collections import defaultdict
 
-data = []
-with open('backend/data/input/class.csv', 'r') as file:
-    reader = csv.DictReader(file)
-    for row in reader:
-        data.append(row)
+xls = pd.ExcelFile('backend/data/input/ClassList.xlsx')
+
+# Get the names of all worksheets in the Excel file
+sheet_names = xls.sheet_names
+
+# Exclude the 'Faculty details' worksheet
+sheet_names.remove('Faculty details')
+
+# Initialize an empty list to store the data from all worksheets
+all_data = []
+
+# Loop through each worksheet
+for sheet_name in sheet_names:
+    # Read the worksheet into a DataFrame
+    df = pd.read_excel(xls, sheet_name)
+
+    # Standardize the column names
+    df.columns = ['Sr No', 'Branch', 'Semester', 'Subject Name', 'Subject Code', 'Class with Section', 'Group', 'Total Students', 'Internal Examiner', 'EMP Code']
+
+    # Convert the DataFrame to a list of dictionaries
+    data_list = df.to_dict('records')
+
+    # Append the data list to all_data, excluding rows where 'Sr No' is 'Sr No'
+    all_data.extend([row for row in data_list if row['Sr No'] != 'Sr No'])
+    
+# Now all_data contains data from all worksheets
+data = all_data
         
 lab_data = pd.read_excel('backend/data/input/labList.xlsx')
 
@@ -20,10 +42,16 @@ dates = ['2024-04-25', '2024-04-26', '2024-04-27', '2024-04-29']
 section_group_time_slots = defaultdict(lambda: defaultdict(list))
 examiner_time_slots = defaultdict(lambda: defaultdict(list))
 
+lab_info = lab_data[['Lab No', 'Capacity']].to_dict('records')
+lab_capacity = {lab['Lab No']: lab['Capacity'] for lab in lab_info}
 
 def check_conflict(row, lab_number, time_slot, date, examiner, force=False):
     section_and_group = (row.get('Class with Section'), row.get('Group (A,B,C,D)'))
 
+    # Check if the lab has the capacity to handle the class
+    if row['Total Students'] > lab_capacity[lab_number]:
+        return True
+    
     # Check if the examiner is already assigned as an internal or external examiner at the same time slot and date
     for other_row in data:
         if (
@@ -67,6 +95,8 @@ def get_least_busy_examiner():
     return min(examiners, key=lambda examiner: examiner_duties[examiner])
 
 examiner_duties = defaultdict(int)
+# Sort the data by 'Total Students' in descending order before assigning labs
+data.sort(key=lambda row: row['Total Students'], reverse=True)
 
 for row in data:
     examiner_duties[row['Internal Examiner']] += 1
@@ -77,7 +107,8 @@ for row in data:
             row['Time Slot'] = time_slot
             row['Date'] = date
             row['External Examiner'] = examiner
-            section_and_group = (row.get('Class with Section'), row.get('Group (A,B)'))
+            row['Lab Capacity'] = lab_capacity[lab_number] 
+            section_and_group = (row.get('Class with Section'), row.get('Group (A,B,C,D)'))
             section_group_time_slots[section_and_group][date].append(time_slot)
             examiner_time_slots[examiner][date].append(time_slot)
             examiner_duties[examiner] += 1
@@ -87,15 +118,17 @@ for row in data:
 for examiner in examiners:
     print(f'{examiner}\t-> Total: {examiner_duties[examiner]}')
 
+# sort it back into sr. no as well
+data.sort(key=lambda row: row['Sr No'])
+
 fieldnames = data[0].keys()
-with open('backend/data/output/output.csv', 'w', newline='') as file:
+with open('backend/data/output/output1.csv', 'w', newline='') as file:
     writer = csv.DictWriter(file, fieldnames=fieldnames)
     writer.writeheader()
     writer.writerows(data)
 
 df = pd.DataFrame(data)
-df.to_excel('backend/data/output/output.xlsx', index=False)
-
+df.to_excel('backend/data/output/output1.xlsx', index=False)
 
 # Class Path: backend\data\input\ClassList.xlsx
 # Lab Path: backend\data\input\LabList.xlsx

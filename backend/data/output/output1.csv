@@ -1,13 +1,378 @@
-[S.no,Course,Branch,Sem,Subject Name,Subject Code,Class with Section,"Group (A,B)",Internal Examiner,Lab Number,Time Slot,Date,External Examiner]
-1,B.E.,AIML,4,Project Based Learning in Java Lab,21CSP-287,21AML-11,B,Dr. Alankrita Agrawal,D2-306,9:30 AM - 11:10 AM,2024-03-29,Mr. Vishal Kumar Kanaujia
-2,B.E.,AIML,4,Project Based Learning in Java Lab,21CSP-287,21AML-12,A,Dr. Alankrita Agrawal,D2-306,11:10 AM - 12:50 PM,2024-03-29,Mr. Mohit Lalit
-3,B.E.,AIML,4,Machine Learning lab,21CSH-286,21AML-4,B,Dr. Anita Sardana,D2-306,1:00 PM - 2:40 PM,2024-03-29,Mr. Yogiraj Anil Bhale
-4,B.E.,AIML,4,Machine Learning lab,21CSH-286,21AML-11,B,Dr. Anita Sardana,D2-307,11:10 AM - 12:50 PM,2024-03-30,Dr. Gurwinder Singh
-5,B.E.,AIML,4,Design and Analysis of Algorithm Lab,21CSH-282,21AML-3,B,Mr Jagjeet Singh,D2-306,2:40 PM - 4:20 PM,2024-03-29,Ms. Shubhangi Mishra
-7,B.E.,AIML,4,Design and Analysis of Algorithm Lab,21CSH-282,21AML-12,A,Mr Jagjeet Singh,D2-307,9:30 AM - 11:10 AM,2024-03-30,Mr. Abhishek Ankur
-13,B.E.,AIML,4,Design and Analysis of Algorithm Lab,21CSH-282,21AML-4,B,Dr. Kalpana Singh,D2-307,2:40 PM - 4:20 PM,2024-03-30,Mr. Vikash Kumar: E13657
-16,B.E.,AIML,4,Project Based Learning in Java Lab,21CSP-287,21AML-1,A,Mr. Mukesh Birla,D2-307,1:00 PM - 2:40 PM,2024-03-30,Mr. Ankur Sharma
-18,B.E.,AIML,4,Machine Learning lab,21CSH-286,21AML-12,A,Dr. Mahadev,D4-104,1:00 PM - 2:40 PM,2024-03-28,Mrs. Somdatta Patra
-32,B.E.,AIML,4,Design and Analysis of Algorithm Lab,21CSH-282,21AML-11,B,Mr. Aadi Pratap,D4-104,2:40 PM - 4:20 PM,2024-03-28,Ms.Samriti: E13663
-33,B.E.,AIML,4,Machine Learning lab,21CSH-286,21AML-1,A,Mr. Arun Mittal,D4-104,9:30 AM - 11:10 AM,2024-03-28,Dr. Kalpana Singh
-38,B.E.,AIML,4,Project Based Learning in Java Lab,21CSP-287,21AML-4,B,Mr. Dayal Chand,D4-104,11:10 AM - 12:50 PM,2024-03-28,Ms. Deeksha
+Sr No,Branch,Semester,Subject Name,Subject Code,Class with Section,Group,Total Students,Internal Examiner,EMP Code,Lab Number,Time Slot,Date,External Examiner,Lab Capacity
+1,CC,4TH,Design and Analysis of Algorithms,22CSH-282,22BCC-1,A,38,ANKUR GUPTA,E15733,D3-101,11:15 AM - 12:45 PM,2024-04-25,Ms.Prabhjot Kaur,45
+1,BCB,4,Introduction to Blockchain,22CSH-285,22BCT-1,A,37,Ms Komal Mehta,E15888,D3-210,9:30 AM - 11:00 AM,2024-04-29,Ms. Pragatie Ahluwalia,39
+1,BE-CSE(H)-BDA,4th ,DESIGN AND ANALYSIS OF ALGORITHMS,22CSH-282,22BDA-1,A,36,Mr. Javaid ,E16644,D2-207,11:15 AM - 12:45 PM,2024-04-29,Dr. Vijay Bhardwaj,36
+1,AIML,8,Digital Image Processing Lab,20CSP483,20AML 1,A,32,Mr.Aadi Pratap Singh,E15043,D2-513,1:15 PM - 2:45 PM,2024-04-26,Dr. Ankit Garg,33
+1,BE-CSE (CSBS),4,Operating System,22CSH-296,22CBS-1,A,27,Mr. Prabjot Singh Bali ,E16592,D2-410,1:15 PM - 2:45 PM,2024-04-27,Mr. Digvijay Puri,30
+1,IS,4,Design and Analysis of Algorithm,22CSH-282,22BIS-1,A,26,Mr Abhishek Ankur,E12833,D2-412,9:30 AM - 11:00 AM,2024-04-29,Dr. Amit Vajpayee,30
+1,Devops,4th ,Design and Analysis of Algorithms,22CSH-282,22BCD-1,A,24,Shubham Banik,E16661,D2-413,11:15 AM - 12:45 PM,2024-04-27,Ms Sakshi Kattna,30
+1,BE-CSE(Gaming & Graphics),4,Design and Analysis of Algorithms,22CSH-282,22BCG-1,A,22,Mr. Saurav Chauhan ,E16638,D2-416,3:00 PM - 4:30 PM,2024-04-26,Dr. Shikha Gupta,30
+1,BE-CSE (IoT),4,Microprocessor and Microcontroller,22CSH-295,22BIT-1,A,21,Dr. Sonal Rattan,E15123,D2-508,11:15 AM - 12:45 PM,2024-04-25,Mr. Rosevir Singh,27
+1,ME-CC,2nd ,AWS SOLUTION ARCHITECT,23CSH-686,23MCC-1,A,9,Ms. Pavandeep Kaur,E15947,D2-514,1:15 PM - 2:45 PM,2024-04-25,Ms. Kirti,30
+2,BCB,4,Introduction to Blockchain,22CSH-285,22BCT-1,B,37,Ms Komal Mehta,E15888,D3-210,11:15 AM - 12:45 PM,2024-04-27,Dr. navjeet Kaur,39
+2,BE-CSE(H)-BDA,4th ,PROGRAMMING IN PYTHON,22CSH-287,22BDA-1,A,36,Mr. Pulkit dwivedi,E13432,D2-207,1:15 PM - 2:45 PM,2024-04-25,Mr. Nikhil,36
+2,CC,4TH,Design and Analysis of Algorithms,22CSH-282,22BCC-1,B,32,ANKUR GUPTA,E15733,D2-317,9:30 AM - 11:00 AM,2024-04-27,Dr. Sonal Rattan,33
+2,AIML,8,Human Computer Interaction lab,20CSP-488,20AML 1,A,32,Dr. U. Hariharan,E11201,D2-513,1:15 PM - 2:45 PM,2024-04-25,Mr Pramod Vishwakarma,33
+2,IS,4,Design and Analysis of Algorithm,22CSH-282,22BIS-1,B,28,Mr Abhishek Ankur,E12833,D2-318,9:30 AM - 11:00 AM,2024-04-29,Mr Saurabh Singhal,28
+2,BE-CSE(Gaming & Graphics),4,Design and Analysis of Algorithms,22CSH-282,22BCG-1,B,28,Mr. Saurav Chauhan ,E16638,D2-318,3:00 PM - 4:30 PM,2024-04-27,Mr. Yogiraj Anil Bhale ,28
+2,BE-CSE (CSBS),4,Database Management System,22CSH-298,22CBS-1,A,27,Mr. Anil Manohar Dogra,E13431,D2-412,9:30 AM - 11:00 AM,2024-04-25,Ms. Mamta Sharma,30
+2,BE-CSE (IoT),4,Microprocessor and Microcontroller,22CSH-295,22BIT-1,B,23,Dr. Sonal Rattan,E15123,D2-413,3:00 PM - 4:30 PM,2024-04-25,ANKUR GUPTA,30
+2,Devops,4th ,Design and Analysis of Algorithms,22CSH-282,22BCD-1,B,23,Mr. Ankur Gupta,E15733,D2-416,9:30 AM - 11:00 AM,2024-04-26,Mr Saurabh Singhal,30
+2,ME-CC,2nd ,CLOUD AUTOMATION AND SCRIPTING FOR SYSTEM ADMINISTRATORS,23CSH-687,23MCC-1,A,9,Ms. Rubbina ,E16582,D2-514,11:15 AM - 12:45 PM,2024-04-29,Tanvi,30
+3,CC,4TH,Programming in Python,22CSH-287,22BCC-1,A,38,Ms. Rubbina,E16582,D3-101,11:15 AM - 12:45 PM,2024-04-26,Mr Tejinderpal Singh,45
+3,BCB,4,Design and Analysis of Algorithm,22CSH-282,22BCT-1,B,37,Ms Sakshi Kattna,E16687,D3-210,11:15 AM - 12:45 PM,2024-04-29,Ms. Rubbina ,39
+3,BE-CSE(H)-BDA,4th ,DESIGN AND ANALYSIS OF ALGORITHMS,22CSH-282,22BDA-1,B,36,Mr. Javaid ,E16644,D2-207,1:15 PM - 2:45 PM,2024-04-26,Mr. Digvijay Puri,36
+3,AIML,8,Augmented Reality Lab,20CSF-494,20AML 1,A,32,Ms.Priyanka Nanda,E16695,D2-513,1:15 PM - 2:45 PM,2024-04-29,Ms.Merry,33
+3,BE-CSE (CSBS),4,Software Design with UML,22CSH-299,22CBS-1,A,27,Mr Tejinderpal Singh,E16552,D2-412,9:30 AM - 11:00 AM,2024-04-26,Ms.Prabhjot Kaur,30
+3,IS,4,Programming in Python,22CSH-287,22BIS-1,A,26,Ms Anudeep Kaur,E16380,D2-412,11:15 AM - 12:45 PM,2024-04-27,Siddharth Kumar,30
+3,Devops,4th ,Agile Practices,22CSH-292,22BCD-1,A,24,Ms. Mamta Sharma,E15565,D2-413,11:15 AM - 12:45 PM,2024-04-29,Mr. Jaswinder,30
+3,BE-CSE(Gaming & Graphics),4,Programming in Python,22CSH-287,22BCG-1,A,22,Mr Pramod Vishwakarma,E-9758,D2-416,3:00 PM - 4:30 PM,2024-04-29,Mr Yogiraj Bhale,30
+3,BE-CSE (IoT),4,Design and Analysis of Algorithms,22CSH-282,22BIT-1,A,21,Mr. Ankur Sharma,E13693,D2-508,9:30 AM - 11:00 AM,2024-04-27,Mr. Raghav Mehra,27
+4,BCB,4,Design and Analysis of Algorithm,22CSH-282,22BCT-1,A,37,Ms Sakshi Kattna,E16687,D3-210,11:15 AM - 12:45 PM,2024-04-25,Dr. Kamaljeet Saini,39
+4,BE-CSE(H)-BDA,4th ,PROGRAMMING IN PYTHON,22CSH-287,22BDA-1,B,36,Dr. Amit Vajpayee,E14118,D2-207,1:15 PM - 2:45 PM,2024-04-27,Ms. Mamta Sharma,36
+4,AIML,8,Digital Image Processing Lab,20CSP483,20AML 1,B,35,Mr.Aadi Pratap Singh,E15043,D2-306,3:00 PM - 4:30 PM,2024-04-29,Ms. Preeti,35
+4,CC,4TH,Programming in Python,22CSH-287,22BCC-1,B,32,Ms. Rubbina,E16582,D2-317,11:15 AM - 12:45 PM,2024-04-25,Dr. Vijay Bhardwaj,33
+4,IS,4,Programming in Python,22CSH-287,22BIS-1,B,28,Ms Anudeep Kaur,E16380,D2-318,11:15 AM - 12:45 PM,2024-04-26,Ms.Reema,28
+4,BE-CSE(Gaming & Graphics),4,Programming in Python,22CSH-287,22BCG-1,B,28,Mr Pramod Vishwakarma,E-9758,D2-410,11:15 AM - 12:45 PM,2024-04-26,Mr Yogiraj Bhale,30
+4,BE-CSE (CSBS),4,Operation Research,22CSH-288,22CBS-1,A,27,Dr. Gurwinder Singh,E11253,D2-410,11:15 AM - 12:45 PM,2024-04-29,Ms. Rubbina,30
+4,BE-CSE (IoT),4,Design and Analysis of Algorithms,22CSH-282,22BIT-1,B,23,Mr. Ankur Sharma,E13693,D2-413,3:00 PM - 4:30 PM,2024-04-26,Dr. Mandeep Tinna,30
+4,Devops,4th ,Agile Practices,22CSH-292,22BCD-1,B,23,Ms. Mamta Sharma,E15565,D2-416,1:15 PM - 2:45 PM,2024-04-25,Ms.Reema,30
+5,BE-CSE(H)-BDA,4th ,DESIGN AND ANALYSIS OF ALGORITHMS,22CSH-282,22BDA-2,A,40,Mr. Javaid ,E16644,D2-408,9:30 AM - 11:00 AM,2024-04-25,Ms.Reema,46
+5,BCB,4,Programming in Python,22CSH-287,22BCT-1,A,37,Ms Yashika Sharma,E11567,D3-210,11:15 AM - 12:45 PM,2024-04-26,Ms. Sakshi Gill,39
+5,CC,4TH,Design and Analysis of Algorithms,22CSH-282,22BCC-2,A,35,ANKUR GUPTA,E15733,D2-306,9:30 AM - 11:00 AM,2024-04-26,Dr Gurpreet Singh,35
+5,AIML,8,Human Computer Interaction lab,20CSP-488,20AML 1,B,35,Dr. U. Hariharan,E11201,D2-307,9:30 AM - 11:00 AM,2024-04-25,Mr Namit Chawla,35
+5,Devops,4th ,Git and Hub,22CSH-293,22BCD-1,A,24,Dr. Kamaljeet Saini,E3040,D2-413,1:15 PM - 2:45 PM,2024-04-26,Mr Harun,30
+5,IS,4,Design and Analysis of Algorithm,22CSH-282,22BIS-2,A,23,Mr Abhishek Ankur,E12833,D2-413,1:15 PM - 2:45 PM,2024-04-27,Prabjot Kaur ,30
+5,BE-CSE (CSBS),6,Computer Networks,21CSH-396,21CBS-1,A,23,Mr. Krishna Kaushal Singh,E13828,D2-413,3:00 PM - 4:30 PM,2024-04-27,Dr. Mohit Angurla,30
+5,BE-CSE(Gaming & Graphics),4,XML Programming,22CSH-291,22BCG-1,A,22,Ms Nikita,E-15134,D2-508,9:30 AM - 11:00 AM,2024-04-26,Shweta Chauhan,27
+5,BE-CSE (IoT),4,Programming in Python,22CSH-287,22BIT-1,A,21,Mr. Abhishek Tiwari,E15792,D2-508,9:30 AM - 11:00 AM,2024-04-29,kalpana singh,27
+6,BE-CSE(H)-BDA,4th ,PROGRAMMING IN PYTHON,22CSH-287,22BDA-2,A,40,Mr. Pulkit dwivedi,E13432,D2-408,9:30 AM - 11:00 AM,2024-04-26,Mr. Abhishek Tiwari,46
+6,BCB,4,Programming in Python,22CSH-287,22BCT-1,B,37,Ms Anudeep Kaur,E16380,D3-210,1:15 PM - 2:45 PM,2024-04-25,Mr. Krishna Kaushal Singh,39
+6,CC,4TH,Programming in Python,22CSH-287,22BCC-2,A,35,Ms. Geetanjali Pandey,E16323,D2-306,9:30 AM - 11:00 AM,2024-04-25,Tanvi,35
+6,AIML,8,Augmented Reality Lab,20CSF-494,20AML 1,B,35,Ms.Priyanka Nanda,E16695,D2-307,9:30 AM - 11:00 AM,2024-04-26,Dr. Satinderjeet Kaur,35
+6,IS,4,Design and Analysis of Algorithm,22CSH-282,22BIS-2,B,33,Ms Sakshi Kattna,E16687,D2-308,9:30 AM - 11:00 AM,2024-04-25,Dr. navjeet Kaur,33
+6,BE-CSE(Gaming & Graphics),4,XML Programming,22CSH-291,22BCG-1,B,28,Ms Nikita,E-15134,D2-410,11:15 AM - 12:45 PM,2024-04-27,Ms Yashika Sharma,30
+6,BE-CSE (CSBS),6,Computer Networks,21CSH-396,21CBS-1,B,24,Mr. Krishna Kaushal Singh,E13828,D2-413,9:30 AM - 11:00 AM,2024-04-29,Dr. Jitender ,30
+6,BE-CSE (IoT),4,Programming in Python,22CSH-287,22BIT-1,B,23,Mr. Abhishek Tiwari,E15792,D2-416,9:30 AM - 11:00 AM,2024-04-25,Ms. Sakshi Gill,30
+6,Devops,4th ,Git and Hub,22CSH-293,22BCD-1,B,23,Dr. Kamaljeet Saini,E3040,D2-416,11:15 AM - 12:45 PM,2024-04-25,Ms. Rituparna,30
+7,BE-CSE(H)-BDA,4th ,DESIGN AND ANALYSIS OF ALGORITHMS,22CSH-282,22BDA-2,B,38,Mr. Javeid ,E16644,D3-101,11:15 AM - 12:45 PM,2024-04-27,Dr.Preet Kamal,45
+7,Devops,6th,Network Operating System,21CSH-397,21BCD-1,A,38,Shubham Banik,E16661,D3-210,9:30 AM - 11:00 AM,2024-04-25,Reema,39
+7,BE-CSE(Gaming & Graphics),6,Network Operating System,21CSH-397,21BCG-1,A,35,Mr Yogiraj Bhale,E10488,D2-415,3:00 PM - 4:30 PM,2024-04-26,Shubham Banik,35
+7,BCB,6,Securing Blockchain Networks,21CSH-393,21BCT-1,A,32,Ms Gurpreet Kaur,E16578,D2-317,1:15 PM - 2:45 PM,2024-04-27,Shubham Banik,33
+7,BE-CSE (IoT),6,Network Operating System,21CSH-397,21BIT-1,A,32,Dr. Sonal Rattan,E15123,D2-513,9:30 AM - 11:00 AM,2024-04-25,Mr Gurpreet Singh,33
+7,AIML,8,Augmented Reality Lab,20CSP455,20AML 2,A,32,Dr. Surender Chauhan,E15372,D2-513,11:15 AM - 12:45 PM,2024-04-27,Dr. Dhawan Singh,33
+7,CC,6TH ,Network Operating System,21CSH-397,21BCC-1,A,26,Dr. Ankit Garg,E14961,D2-412,9:30 AM - 11:00 AM,2024-04-27,Dr Nitin Jain,30
+7,IS,4,Programming in Python,22CSH-287,22BIS-2,A,23,Ms Yashika Sharma,E11567,D2-413,1:15 PM - 2:45 PM,2024-04-29,Reema,30
+7,BE-CSE (CSBS),6,Information Security,21CSH-390,21CBS-1,A,23,Mr. Yogiraj Anil Bhale ,E10488,D2-413,3:00 PM - 4:30 PM,2024-04-29,Dr. navjeet Kaur,30
+8,BE-CSE(Gaming & Graphics),6,Network Operating System,21CSH-397,21BCG-1,B,39,Mr Yogiraj Bhale,E10488,D3-101,9:30 AM - 11:00 AM,2024-04-25,Mr. Nikhil,45
+8,BE-CSE(H)-BDA,4th ,PROGRAMMING IN PYTHON,22CSH-287,22BDA-2,B,38,Mr. Pulkit dwivedi,E13432,D3-101,11:15 AM - 12:45 PM,2024-04-29,Ms. Pavandeep Kaur,45
+8,Devops,6th,Technical Training,21CSP-382,21BCD-1,A,38,Mr. Ankur Gupta,E15733,D3-210,9:30 AM - 11:00 AM,2024-04-26,Ms. Sakshi,39
+8,BE-CSE (IoT),6,Network Operating System,21CSH-397,21BIT-1,B,36,Dr. Sonal Rattan,E15123,D2-207,9:30 AM - 11:00 AM,2024-04-25,Ms Sheetal Laroiya,36
+8,IS,4,Programming in Python,22CSH-287,22BIS-2,B,33,Ms Yashika Sharma,E11567,D2-308,9:30 AM - 11:00 AM,2024-04-26,Ms. Ruksana,33
+8,BCB,6,Securing Blockchain Networks,21CSH-393,21BCT-1,B,32,Ms Gurpreet Kaur,E16578,D2-317,3:00 PM - 4:30 PM,2024-04-27,Dr Nitin Jain,33
+8,AIML,8,Digital Image Processing Lab,20CSP483,20AML 2,A,32,Dr. Amit Kukker,E16298,D2-513,1:15 PM - 2:45 PM,2024-04-27,Mr. Uzzal Mondal,33
+8,CC,6TH ,Network Operating System,21CSH-397,21BCC-1,B,24,Dr. Ankit Garg,E14961,D2-413,9:30 AM - 11:00 AM,2024-04-25,Ms. Upasana Tiwari,30
+8,BE-CSE (CSBS),6,Information Security,21CSH-390,21CBS-1,B,24,Mr. Yogiraj Anil Bhale ,E10488,D2-413,11:15 AM - 12:45 PM,2024-04-25,Dr. Ranjan Walia,30
+9,BE-CSE(H)-BDA,6th,NETWORK OPERATING SYSTEM,21CSH-397,21BDA-1,A,39,Dr. Geeta Rani,E15227,D2-408,1:15 PM - 2:45 PM,2024-04-25,Mr. Aman kumar,46
+9,Devops,6th,DevOps on Cloud,21CSH-382,21BCD-1,A,38,Ms. Geetanjali Pandey,E16323,D3-210,9:30 AM - 11:00 AM,2024-04-27,Ms Ravneet Kaur,39
+9,IS,6,Blockchain,21CSH-391,21BIS-1,A,35,Ms Komal Mehta,E15888,D2-306,1:15 PM - 2:45 PM,2024-04-29,Dr. U. Hariharan,35
+9,BE-CSE(Gaming & Graphics),6,Technical Training,21CSP-382,21BCG-1,A,35,Mr Pramod Vishwakarma,E-9758,D2-415,3:00 PM - 4:30 PM,2024-04-29,Ms. Mamta Sharma,35
+9,BCB,6,Network Operating System,21CSH-397,21BCT-1,A,32,Mr Swapnil Raj,E13017,D2-317,3:00 PM - 4:30 PM,2024-04-25,Ms. Mamta Sharma,33
+9,BE-CSE (IoT),6,Technical Training,21CSP-382,21BIT-1,A,32,Mr. Abhishek Tiwari,E15792,D2-513,9:30 AM - 11:00 AM,2024-04-27,Amanpreet Kaur,33
+9,AIML,8,Human Computer Interaction lab,20CSP-488,20AML 2,A,32,Dr. Vijay Bhardwaj,E12849,D2-513,3:00 PM - 4:30 PM,2024-04-26,Dr Deepak Kumar,33
+9,CC,6TH ,Technical Training,21CSP-382,21BCC-1,A,26,Shubham Banik,E16661,D2-410,1:15 PM - 2:45 PM,2024-04-25,Mr. Javeid ,30
+9,BE-CSE (CSBS),6,Artificial Intelligence,21CSH-380,21CBS-1,A,23,Ms.Merry,E12903,D2-416,9:30 AM - 11:00 AM,2024-04-27,Ms. Ruksana,30
+10,BE-CSE(H)-BDA,6th,TECHNICAL TRAINING,21CSP-382,21BDA-1,A,39,Ms. Shweta,E12791,D2-408,1:15 PM - 2:45 PM,2024-04-26,Mr. Prabjot Singh Bali ,46
+10,BE-CSE(Gaming & Graphics),6,Technical Training,21CSP-382,21BCG-1,B,39,Mr Pramod Vishwakarma,E-9758,D3-101,9:30 AM - 11:00 AM,2024-04-26,Mr. Digvijay Puri,45
+10,BE-CSE (IoT),6,Technical Training,21CSP-382,21BIT-1,B,36,Mr. Abhishek Tiwari,E15792,D2-207,9:30 AM - 11:00 AM,2024-04-26,Ms Shivani Aggarwal,36
+10,IS,6,Blockchain,21CSH-391,21BIS-1,B,34,Ms Komal Mehta,E15888,D2-411,9:30 AM - 11:00 AM,2024-04-29,Dr Nitin Jain,34
+10,BCB,6,Network Operating System,21CSH-397,21BCT-1,B,32,Mr Swapnil Raj,E13017,D2-317,3:00 PM - 4:30 PM,2024-04-29,Mr. Javeid ,33
+10,AIML,8,Augmented Reality Lab,20CSP455,20AML 2,B,27,Dr. Surender Chauhan,E15372,D2-410,1:15 PM - 2:45 PM,2024-04-26,Shweta Chauhan,30
+10,CC,6TH ,Technical Training,21CSP-382,21BCC-1,B,24,Shubham Banik,E16661,D2-412,3:00 PM - 4:30 PM,2024-04-29,Kushagra Agrawal,30
+10,BE-CSE (CSBS),6,Artificial Intelligence,21CSH-380,21CBS-1,B,24,Ms.Merry,E12903,D2-413,1:15 PM - 2:45 PM,2024-04-25,Mr. Tejinder Pal Singh ,30
+11,BE-CSE(H)-BDA,6th,BIG DATA TECHNOLOGIES (SPARK AND SCALA),21CSH-381,21BDA-1,A,39,Ms. Mansi Kajal,E14871,D2-408,1:15 PM - 2:45 PM,2024-04-27,Mr. Probjot Singh Bali,46
+11,IS,6,Network Operating System,21CSH-397,21BIS-1,A,35,Mr Swapnil Raj,E13017,D2-306,3:00 PM - 4:30 PM,2024-04-25,Dr. Jitender ,35
+11,BE-CSE(Gaming & Graphics),6,Augmented Virtual & Mixed Reality,21CSH-386,21BCG-1,A,35,Mr Harun,E-11421,D2-415,3:00 PM - 4:30 PM,2024-04-27,Ms.Prabhjot Kaur,35
+11,BCB,6,Dynamic Paradigms of Blockchain,21CSH-384,21BCT-1,A,32,Ms Gurpreet Kaur,E16578,D2-317,1:15 PM - 2:45 PM,2024-04-29,Mr Tejinderpal Singh,33
+11,BE-CSE (IoT),6,Machine Learning, 21CSH-379, 2BIT-1,A,32,Mr. Ankur Sharma,E13693,D2-513,11:15 AM - 12:45 PM,2024-04-25,Mr. Gaurav Soni,33
+11,AIML,8,Digital Image Processing Lab,20CSP483,20AML 2,B,27,Dr. Amit Kukker,E16298,D2-410,11:15 AM - 12:45 PM,2024-04-25,kalpana singh,30
+11,CC,6TH ,Agile Development Methodologies,21CSH-383,21BCC-1,A,26,Ms. Pavandeep Kaur,E15947,D2-410,1:15 PM - 2:45 PM,2024-04-29,Ms. Geetanjali Pandey,30
+11,BE-CSE (CSBS),6,Data Mining and Analytics,21CSH-388,21CBS-1,A,23,Mr. Tejinder Pal Singh ,E16552,D2-416,9:30 AM - 11:00 AM,2024-04-29,Mr. Ankur Gupta,30
+12,BE-CSE(H)-BDA,6th,BIG DATA ARCHITECTURE AND CORE TECHNOLOGIES,21CSH-385,21BDA-1,A,39,Dr. Monica Luthra,E9836,D2-408,1:15 PM - 2:45 PM,2024-04-29,Ms. Jayashree,46
+12,BE-CSE(Gaming & Graphics),6,Augmented Virtual & Mixed Reality,21CSH-386,21BCG-1,B,39,Mr Harun,E-11421,D3-101,9:30 AM - 11:00 AM,2024-04-27,Shubham Banik,45
+12,BE-CSE (IoT),6,Machine Learning, 21CSH-379, 2BIT-1,B,36,Mr. Ankur Sharma,E13693,D2-207,9:30 AM - 11:00 AM,2024-04-27,Dayal Chandra Sati,36
+12,IS,6,Network Operating System,21CSH-397,21BIS-1,B,34,Mr Swapnil Raj,E13017,D2-411,11:15 AM - 12:45 PM,2024-04-26,Mr. Javeid ,34
+12,BCB,6,Dynamic Paradigms of Blockchain,21CSH-384,21BCT-1,B,32,Ms Gurpreet Kaur,E16578,D2-513,9:30 AM - 11:00 AM,2024-04-26,Ms. Geetanjali Pandey,33
+12,AIML,8,Human Computer Interaction lab,20CSP-488,20AML 2,B,27,Dr. Vijay Bhardwaj,E12849,D2-410,3:00 PM - 4:30 PM,2024-04-26,Mr. Nikhil,30
+12,CC,6TH ,Agile Development Methodologies,21CSH-383,21BCC-1,B,24,Dr. Dhawan Singh,E14960,D2-412,3:00 PM - 4:30 PM,2024-04-27,Mr. Mohit Lalit,30
+12,BE-CSE (CSBS),6,Data Mining and Analytics,21CSH-388,21CBS-1,B,24,Mr. Tejinder Pal Singh ,E16552,D2-413,11:15 AM - 12:45 PM,2024-04-26,Mr. Ankur Sharma,30
+13,BE-CSE(H)-BDA,6th,NETWORK OPERATING SYSTEM,21CSH-397,21BDA-1,B,39,Dr. Geeta Rani,E15227,D2-408,3:00 PM - 4:30 PM,2024-04-25,Dr. Jitendre Kaushal,46
+13,IS,6,Identity & Access Management,21CSH-394,21BIS-1,A,35,Dr Gurpreet Singh,E9842,D2-306,3:00 PM - 4:30 PM,2024-04-26,Dr. Gurwinder Singh,35
+13,BE-CSE(Gaming & Graphics),6,Web programming for  Graphics & Gaming (HTML 5 and  Web GL),21CSH-387,21BCG-1,A,35,Ms Nikita,E-15134,D2-512,9:30 AM - 11:00 AM,2024-04-25,Mr Tejinderpal Singh,36
+13,AIML,8,Digital Image Processing Lab,20CSP483,20AML 3,A,33,Mr.Aadi Pratap Singh,E15043,D2-308,11:15 AM - 12:45 PM,2024-04-26,Mr. Krishna Kaushal Singh,33
+13,BCB,6,Technical Training,21CSP-382,21BCT-1,A,32,Neha Sharma ,E12652,D2-317,3:00 PM - 4:30 PM,2024-04-26,Ms. Pavandeep Kaur,33
+13,BE-CSE (IoT),6,Cloud Computing & IoT Lab,21CSP-387,21BIT-1,A,32,Mr. Gaurav Soni,E9610,D2-513,9:30 AM - 11:00 AM,2024-04-29,Mr. Javaid ,33
+13,CC,6TH ,Web Services,21CSH-392,21BCC-1,A,26,Ms. Bhavna Nayyar,E15505,D2-410,3:00 PM - 4:30 PM,2024-04-25,Dr. Raghav Mehra,30
+13,BE-CSE (CSBS),6,Technical Training,21CSP-382,21CBS-1,A,23,Mr. Anil Manohar Dogra,E13431,D2-416,11:15 AM - 12:45 PM,2024-04-27,Ms. Rubbina ,30
+14,BE-CSE(H)-BDA,6th,TECHNICAL TRAINING,21CSP-382,21BDA-1,B,39,Ms. Jayashree,E15737,D2-408,3:00 PM - 4:30 PM,2024-04-26,Geetanjali,46
+14,BE-CSE(Gaming & Graphics),6,Web programming for Graphics & Gaming (HTML 5 and Web GL),21CSH-387,21BCG-1,B,39,Ms Nikita,E-15134,D3-101,9:30 AM - 11:00 AM,2024-04-29,Ms. Mamta Sharma,45
+14,BE-CSE (IoT),6,Cloud Computing & IoT Lab,21CSP-387,21BIT-1,B,36,Mr. Gaurav Soni,E9610,D2-207,9:30 AM - 11:00 AM,2024-04-29,Mr. Yogiraj Anil Bhale ,36
+14,IS,6,Identity & Access Management,21CSH-394,21BIS-1,B,34,Dr Gurpreet Singh,E9842,D2-411,11:15 AM - 12:45 PM,2024-04-25,Mr. Sant Kumar Maurya,34
+14,AIML,8,Augmented Reality Lab,20CSF-494,20AML 3,A,33,Dr. Surender Chauhan,E15372,D2-308,9:30 AM - 11:00 AM,2024-04-29,Mr. Anil Manohar Dogra,33
+14,BCB,6,Technical Training,21CSP-382,21BCT-1,B,32,Mr Namit Chawla,E11486,D2-512,3:00 PM - 4:30 PM,2024-04-27,Mr. Sant Kumar Maurya,36
+14,CC,6TH ,Web Services,21CSH-392,21BCC-1,B,24,Ms. Bhavna Nayyar,E15505,D2-413,9:30 AM - 11:00 AM,2024-04-26,Prabjot Singh Bali,30
+14,BE-CSE (CSBS),6,Technical Training,21CSP-382,21CBS-1,B,24,Mr. Anil Manohar Dogra,E13431,D2-413,9:30 AM - 11:00 AM,2024-04-27,Dr. Jitender Kaushal,30
+15,BE-CSE (IoT),8,Blockchain lab,20CSD-497,20BIT-1,A,39,Mr. Tejinder Pal Singh ,E16652,D2-408,11:15 AM - 12:45 PM,2024-04-26,Dr. Alankrita Aggarwal,46
+15,BE-CSE(H)-BDA,6th,BIG DATA TECHNOLOGIES (SPARK AND SCALA),21CSH-381,21BDA-1,B,39,Ms. Mansi Kajal,E14871,D2-408,3:00 PM - 4:30 PM,2024-04-27,Dr. Ratish Kumar,46
+15,BE-CSE(Gaming & Graphics),8,Gaming and Simulation Lab,20CSP-493,20BCG-1,A,37,Mr. Saurav Chauhan ,E16638,D3-211,9:30 AM - 11:00 AM,2024-04-29,Dr. Deepti Sharma,41
+15,IS,6,Technical Training,21CSP-382,21BIS-1,A,35,Neha Sharma ,E12652,D2-306,3:00 PM - 4:30 PM,2024-04-27,Dr. Jitender Kaushal,35
+15,AIML,8,Human Computer Interaction lab,20CSP-488,20AML 3,A,33,Prabjot Kaur ,E16646,D2-308,11:15 AM - 12:45 PM,2024-04-27,Mr Saurabh Singhal,33
+15,CC,6TH ,Network Operating System,21CSH-397,21BCC-2,A,26,Dr. Ankit Garg,E14961,D2-410,3:00 PM - 4:30 PM,2024-04-29,Mr. Sant Kumar Maurya,30
+15,BE-CSE (CSBS),8,Services Science and Service Operational Management lab,20CSP-485,20CBS-1,A,25,Ms. Pragatie Ahluwalia,E13244,D2-412,1:15 PM - 2:45 PM,2024-04-27,Tanvi,30
+16,BE-CSE(H)-BDA,6th,BIG DATA ARCHITECTURE AND CORE TECHNOLOGIES,21CSH-385,21BDA-1,B,39,Dr. Monica Luthra,E9836,D2-408,3:00 PM - 4:30 PM,2024-04-29,Neha Sharma ,46
+16,BE-CSE (IoT),8,Blockchain lab,20CSD-497,20BIT-1,B,36,Mr. Tejinder Pal Singh ,E16652,D2-207,11:15 AM - 12:45 PM,2024-04-25,Shweta Chauhan,36
+16,BE-CSE(Gaming & Graphics),8,Gaming and Simulation Lab,20CSP-493,20BCG-1,B,36,Mr. Saurav Chauhan ,E16638,D2-414,11:15 AM - 12:45 PM,2024-04-26,Ms.Priyanka Nanda,36
+16,IS,6,Technical Training,21CSP-382,21BIS-1,B,34,Neha Sharma ,E12652,D2-411,11:15 AM - 12:45 PM,2024-04-27,Mr Gurpreet Singh,34
+16,AIML,8,Digital Image Processing Lab,20CSP483,20AML 3,B,34,Mr.Aadi Pratap Singh,E15043,D2-411,1:15 PM - 2:45 PM,2024-04-29,Dr. . Mahadev,34
+16,CC,6TH ,Network Operating System,21CSH-397,21BCC-2,B,28,Dr. Ankit Garg,E14961,D2-318,9:30 AM - 11:00 AM,2024-04-25,Mr. Ankur Gupta,28
+16,BE-CSE (CSBS),8,Services Science and Service Operational Management lab,20CSP-485,20CBS-1,B,25,Ms. Pragatie Ahluwalia,E13244,D2-412,3:00 PM - 4:30 PM,2024-04-26,Ms.Merry,30
+17,BE-CSE (IoT),8,Designing of IoT Applications Lab,20CSP-499,20BIT-1,A,39,Mr. Gaurav Soni,E9610,D2-408,11:15 AM - 12:45 PM,2024-04-27,Ms. Shubhangi Mishra,46
+17,BE-CSE(H)-BDA,6th,NETWORK OPERATING SYSTEM,21CSH-397,21BDA-2,A,38,Dr. Geeta Rani,E15227,D3-101,1:15 PM - 2:45 PM,2024-04-25,Dr Nitin Jain,45
+17,BE-CSE(Gaming & Graphics),8,Advanced Computer Programming Lab,20CSG-490,20BCG-1,A,37,Mr Harun,E-11421,D3-211,11:15 AM - 12:45 PM,2024-04-25,Mr Abhishek Ankur,41
+17,AIML,8,Augmented Reality Lab,20CSF - 494,20AML 3,B,34,Dr. Jitender ,E14621,D2-411,1:15 PM - 2:45 PM,2024-04-27,Dr. Ankit Garg,34
+17,CC,6TH ,Technical Training,21CSP-382,21BCC-2,A,26,Shubham Banik,E16661,D2-410,3:00 PM - 4:30 PM,2024-04-27,Mr Gurpreet Singh,30
+17,BE-CSE (CSBS),8,IT Project Management lab,20CSP-492,20CBS-1,A,25,Mr. Krishna Kaushal Singh,E13828,D2-412,3:00 PM - 4:30 PM,2024-04-25,Dr. Dhawan Singh,30
+17,IS,6,Blockchain,21CSH-391,21BIS-2,A,22,Ms Gurpreet Kaur,E16578,D2-416,11:15 AM - 12:45 PM,2024-04-26,Mr. Aman kumar,30
+18,BE-CSE(H)-BDA,6th,TECHNICAL TRAINING,21CSP-382,21BDA-2,A,38,Ms. Jayashree,E15737,D3-101,1:15 PM - 2:45 PM,2024-04-26,Mr.Jagjit Singh,45
+18,BE-CSE (IoT),8,Designing of IoT Applications Lab,20CSP-499,20BIT-1,B,36,Mr. Gaurav Soni,E9610,D2-207,11:15 AM - 12:45 PM,2024-04-26,Mr Swapnil Raj,36
+18,BE-CSE(Gaming & Graphics),8,Advanced Computer Programming Lab,20CSG-490,20BCG-1,B,36,Mr Harun,E-11421,D2-414,1:15 PM - 2:45 PM,2024-04-25,Dr. Ankit Garg,36
+18,AIML,8,Human Computer Interaction lab,20CSP-488,20AML 3,B,34,Ms.Prabhjot Kaur,E16646,D2-411,3:00 PM - 4:30 PM,2024-04-25,Ms.Merry,34
+18,CC,6TH ,Technical Training,21CSP-382,21BCC-2,B,28,Shubham Banik,E16661,D2-318,9:30 AM - 11:00 AM,2024-04-26,Ms. Rubbina ,28
+18,BE-CSE (CSBS),8,IT Project Management lab,20CSP-492,20CBS-1,B,25,Mr. Krishna Kaushal Singh,E13828,D2-412,1:15 PM - 2:45 PM,2024-04-29,Mr. Uzzal Mondal,30
+18,IS,6,Blockchain,21CSH-391,21BIS-2,B,22,Ms Gurpreet Kaur,E16578,D2-416,1:15 PM - 2:45 PM,2024-04-27,Mr. Nikhil Agarwal,30
+19,BE-CSE (IoT),8,Digital Image Processing Lab,20CSP-483,20BIT-1,A,39,Mr. Nikhil Agarwal,E9191,D2-408,11:15 AM - 12:45 PM,2024-04-29,Neeru Bala,46
+19,BE-CSE(H)-BDA,6th,BIG DATA TECHNOLOGIES (SPARK AND SCALA),21CSH-381,21BDA-2,A,38,Ms. Mansi Kajal,E14871,D3-101,1:15 PM - 2:45 PM,2024-04-27,Ms. Geetanjali Pandey,45
+19,AIML,8,Digital Image Processing Lab,20CSP483,20AML 4,A,34,Dr. Amit Kukker,E16298,D2-411,3:00 PM - 4:30 PM,2024-04-26,Mr. Uzzal Mondal,34
+19,CC,6TH ,Agile Development Methodologies,21CSH-383,21BCC-2,A,26,Ms. Pavandeep Kaur,E15947,D2-412,11:15 AM - 12:45 PM,2024-04-26,Amanpreet Kaur,30
+19,IS,6,Network Operating System,21CSH-397,21BIS-2,A,22,Dr Nitin Jain,E8466,D2-416,11:15 AM - 12:45 PM,2024-04-29,Mr. Probjot Singh Bali,30
+20,BE-CSE(H)-BDA,6th,BIG DATA ARCHITECTURE AND CORE TECHNOLOGIES,21CSH-385,21BDA-2,A,38,Dr. Monica Luthra,E9836,D3-101,1:15 PM - 2:45 PM,2024-04-29,Dr. Raghav Mehra,45
+20,BE-CSE (IoT),8,Digital Image Processing Lab,20CSP-483,20BIT-1,B,36,Mr. Nikhil Agarwal,E9191,D2-207,11:15 AM - 12:45 PM,2024-04-27,Mr. Rosevir Singh,36
+20,AIML,8,Augmented Reality Lab,20CSF - 494,20AML 4,A,34,Dr.Preet Kamal,E15857,D2-411,3:00 PM - 4:30 PM,2024-04-27,Dr. Surender Chauhan,34
+20,CC,6TH ,Agile Development Methodologies,21CSH-383,21BCC-2,B,28,Ms. Pavandeep Kaur,E15947,D2-318,9:30 AM - 11:00 AM,2024-04-27,Mr. Krishna Kaushal Singh,28
+20,IS,6,Network Operating System,21CSH-397,21BIS-2,B,22,Mr Swapnil Raj,E13017,D2-416,3:00 PM - 4:30 PM,2024-04-25,Ms. Jayashree,30
+21,AIML,8,Human Computer Interaction lab,20CSP-488,20AML 4,A,34,Dr.Preet Kamal,E15857,D2-411,3:00 PM - 4:30 PM,2024-04-29,Ms. Upasana Tiwari,34
+21,BE-CSE(H)-BDA,6th,NETWORK OPERATING SYSTEM,21CSH-397,21BDA-2,B,28,Dr. Geeta Rani,E15227,D2-318,1:15 PM - 2:45 PM,2024-04-27,Mr. Prabjot Singh Bali ,28
+21,CC,6TH ,Web Services,21CSH-392,21BCC-2,A,26,Ms. Bhavna Nayyar,E15505,D2-412,11:15 AM - 12:45 PM,2024-04-25,Mr. Javaid ,30
+21,IS,6,Identity & Access Management,21CSH-394,21BIS-2,A,22,Mr Gurpreet Singh,E9842,D2-416,3:00 PM - 4:30 PM,2024-04-27,Dr. Jitendre Kaushal,30
+22,AIML,8,Augmented Reality Lab,20CSP455,20AML 4,B,36,Dr.Preet Kamal,E15857,D2-207,1:15 PM - 2:45 PM,2024-04-29,Ms.Prabhjot Kaur,36
+22,CC,6TH ,Web Services,21CSH-392,21BCC-2,B,28,Ms. Bhavna Nayyar,E15505,D2-318,11:15 AM - 12:45 PM,2024-04-25,Mr. Anil Manohar Dogra,28
+22,BE-CSE(H)-BDA,6th,TECHNICAL TRAINING,21CSP-382,21BDA-2,B,28,Ms. Jayashree,E15737,D2-318,1:15 PM - 2:45 PM,2024-04-26,Mr. Probjot Singh Bali,28
+22,IS,6,Identity & Access Management,21CSH-394,21BIS-2,B,22,Mr Gurpreet Singh,E9842,D2-416,1:15 PM - 2:45 PM,2024-04-26,Dr. Madan Lal Saini,30
+23,AIML,8,Digital Image Processing Lab,20CSP483,20AML 4,B,36,Dr. Amit Kukker,E16298,D2-207,3:00 PM - 4:30 PM,2024-04-25,Mr Tejinderpal Singh,36
+23,CC,8TH ,Artificial Intelligence and Natural Language Processing Lab,20CSP-491,20BCC-1,A,35,Dr. Monika Singh,E11032,D2-306,9:30 AM - 11:00 AM,2024-04-27,Mr Pramod Vishwakarma,35
+23,BE-CSE(H)-BDA,6th,BIG DATA TECHNOLOGIES (SPARK AND SCALA),21CSH-381,21BDA-2,B,28,Ms. Mansi Kajal,E14871,D2-318,1:15 PM - 2:45 PM,2024-04-29,Dr. Jitendre Kaushal,28
+23,IS,6,Technical Training,21CSP-382,21BIS-2,A,22,Neha Sharma ,E12652,D2-416,1:15 PM - 2:45 PM,2024-04-29,Dr. Ratish Kumar,30
+24,AIML,8,Human Computer Interaction lab,20CSP-488,20AML 4,B,36,Ms.Reema,E16536,D2-207,3:00 PM - 4:30 PM,2024-04-26,Ms. Rubbina,36
+24,CC,8TH ,Artificial Intelligence and Natural Language Processing Lab,20CSP-491,20BCC-1,B,34,Dr. Monika Singh,E11032,D2-411,9:30 AM - 11:00 AM,2024-04-25,Dr.Preet Kamal,34
+24,BE-CSE(H)-BDA,6th,BIG DATA ARCHITECTURE AND CORE TECHNOLOGIES,21CSH-385,21BDA-2,B,28,Dr. Monica Luthra,E9836,D2-318,3:00 PM - 4:30 PM,2024-04-25,Dr. Madan Lal Saini,28
+24,IS,6,Technical Training,21CSP-382,21BIS-2,B,22,Neha Sharma ,E12652,D2-508,9:30 AM - 11:00 AM,2024-04-25,Mr. Pulkit dwivedi,27
+25,CC,8TH ,Cloud Security Lab,20CSA-487,20BCC-1,A,35,Dr. Deepti Sharma,E14308,D2-306,9:30 AM - 11:00 AM,2024-04-29,Ms.Merry,35
+25,AIML,6,Technical Traning,21CSP-382,21 AIT_KRG-1,A,35,Ms.Sonali Kapoor,E15786,D2-307,9:30 AM - 11:00 AM,2024-04-27,Dr. Vineet Mehan,35
+25,IS,8,Artificial Intelligence And Natural Language Processing Lab,20CSP-491,20BIS-1,A,34,Mr Namit Chawla,E11486,D2-411,11:15 AM - 12:45 PM,2024-04-29,Amanpreet Kaur,34
+25,BE-CSE(H)-BDA,8th,DIGITAL IMAGE PROCESSING LAB,20CSP-483,20BDA-1,A,30,Ms. Shweta,E12791,D2-410,9:30 AM - 11:00 AM,2024-04-25,Ms. Pragatie Ahluwalia,30
+26,AIML,6,Technical Traning,21CSP-382,21 AIT_KRG-1,B,39,Ms.Sonali Kapoor,E15786,D2-409,9:30 AM - 11:00 AM,2024-04-25,Dr. Shikha Gupta,43
+26,CC,8TH ,Cloud Security Lab,20CSA-487,20BCC-1,B,34,Dr. Deepti Sharma,E14308,D2-411,9:30 AM - 11:00 AM,2024-04-26,Ms. Rubbina,34
+26,IS,8,Artificial Intelligence And Natural Language Processing Lab,20CSP-491,20BIS-1,B,32,Mr Namit Chawla,E11486,D2-317,11:15 AM - 12:45 PM,2024-04-27,kalpana singh,33
+26,BE-CSE(H)-BDA,8th,BIG DATA SECURITY LAB,20CSP-484,20BDA-1,A,30,Dr. Navjeet Kaur,E16069,D2-410,9:30 AM - 11:00 AM,2024-04-26,Dr. Kamaljeet Saini,30
+27,AIML,6,Technical Training,21CSP-382,21AML-11,A,36,Ms Shivani Aggarwal,E11286,D2-207,3:00 PM - 4:30 PM,2024-04-29,Dr Nitin Jain,36
+27,CC,8TH ,Digital Image Processing Lab,20CSP-483,20BCC-1,A,35,Dr. Dhawan Singh,E14960,D2-306,11:15 AM - 12:45 PM,2024-04-25,Mr. Uzzal Mondal,35
+27,IS,8,Big Data Security lab,20CSP-484,20BIS-1,A,34,Ms Ravneet Kaur,E11361,D2-411,1:15 PM - 2:45 PM,2024-04-25,Dr. Amit Vajpayee,34
+27,BE-CSE(H)-BDA,8th,DIGITAL IMAGE PROCESSING LAB,20CSP-483,20BDA-1,B,28,Ms. Shweta,E12791,D2-318,3:00 PM - 4:30 PM,2024-04-26,Mr. Pulkit dwivedi,28
+28,CC,8TH ,Digital Image Processing Lab,20CSP-483,20BCC-1,B,34,Dr. Dhawan Singh,E14960,D2-411,9:30 AM - 11:00 AM,2024-04-27,Ms. Pavandeep Kaur,34
+28,AIML,6,Technical Training,21CSP-382,21AML-11,B,33,Dr. Mohit Angurla,E15400,D2-308,1:15 PM - 2:45 PM,2024-04-25,Mr. Abhishek Tiwari,33
+28,IS,8,Big Data Security lab,20CSP-484,20BIS-1,B,32,Ms Ravneet Kaur,E11361,D2-317,11:15 AM - 12:45 PM,2024-04-29,Mr. Nikhil,33
+28,BE-CSE(H)-BDA,8th,BIG DATA SECURITY LAB,20CSP-484,20BDA-1,B,28,Dr. Navjeet Kaur,E16069,D2-318,3:00 PM - 4:30 PM,2024-04-29,Dr. Shikha Gupta,28
+29,AIML,6,Technical Training,21CSP-382,21AML-12,A,36,Ms. Kirti,E16189,D2-414,9:30 AM - 11:00 AM,2024-04-26,Dr. Raghav Mehra,36
+29,CC,8TH ,Artificial Intelligence and Natural Language Processing Lab,20CSP-491,20BCC-2,A,35,Dr. Monika Singh,E11032,D2-306,11:15 AM - 12:45 PM,2024-04-26,Dr Deepak Kumar,35
+29,IS,8,Digital Image Processing Lab,20CSP-483,20BIS-1,A,34,Ms Sheetal Laroiya,E15433,D2-411,1:15 PM - 2:45 PM,2024-04-26,Ms Gurpreet Kaur,34
+29,BE-CSE(H)-BDA,8th,DIGITAL IMAGE PROCESSING LAB,20CSP-483,20BDA-2,A,33,Ms. Shweta,E12791,D2-308,9:30 AM - 11:00 AM,2024-04-27,Mr. Ankur Gupta,33
+30,CC,8TH ,Artificial Intelligence and Natural Language Processing Lab,20CSP-491,20BCC-2,B,35,Dr. Monika Singh,E11032,D2-306,11:15 AM - 12:45 PM,2024-04-27,Dr. Surender Chauhan,35
+30,BE-CSE(H)-BDA,8th,BIG DATA SECURITY LAB,20CSP-484,20BDA-2,A,33,Dr. Navjeet Kaur,E16069,D2-308,11:15 AM - 12:45 PM,2024-04-25,Ms. Rubbina ,33
+30,IS,8,Digital Image Processing Lab,20CSP-483,20BIS-1,B,32,Ms Sheetal Laroiya,E15433,D2-317,1:15 PM - 2:45 PM,2024-04-25,Mr. Digvijay Puri,33
+30,AIML,6,Technical Training,21CSP-382,21AML-3,B,32,Ms. Shubhangi Mishra,E13142,D3-211,11:15 AM - 12:45 PM,2024-04-29,Mr. Tejinder Pal Singh ,41
+31,AIML,6,Technical Training,21CSP-382,21AML-5,A,37,Geetanjali,E15507,D3-210,3:00 PM - 4:30 PM,2024-04-29,Mr. Nikhil Agarwal,39
+31,CC,8TH ,Cloud Security Lab,20CSA-487,20BCC-2,A,35,Dr. Deepti Sharma,E14308,D2-306,11:15 AM - 12:45 PM,2024-04-29,LATA GUPTA,35
+31,BE-CSE(H)-BDA,8th,DIGITAL IMAGE PROCESSING LAB,20CSP-483,20BDA-2,B,31,Ms. Shweta,E12791,D3-211,3:00 PM - 4:30 PM,2024-04-26,Dr. Geeta Rani,41
+31,IS,8,Artificial Intelligence And Natural Language Processing Lab,20CSP-491,20BIS-2,A,26,Mr Namit Chawla,E11486,D2-412,1:15 PM - 2:45 PM,2024-04-25,Dr. . Mahadev,30
+32,AIML,6,Technical Training,21CSP-382,21AML-5,B,36,Geetanjali,E15507,D2-414,9:30 AM - 11:00 AM,2024-04-27,Mr. Sant Kumar Maurya,36
+32,CC,8TH ,Cloud Security Lab,20CSA-487,20BCC-2,B,35,Dr. Deepti Sharma,E14308,D2-306,1:15 PM - 2:45 PM,2024-04-25,Mr.Aadi Pratap Singh,35
+32,BE-CSE(H)-BDA,8th,BIG DATA SECURITY LAB,20CSP-484,20BDA-2,B,31,Dr. navjeet Kaur,E16069,D3-211,3:00 PM - 4:30 PM,2024-04-25,Mr. Jaswinder,41
+32,IS,8,Artificial Intelligence And Natural Language Processing Lab,20CSP-491,20BIS-2,B,28,Mr Namit Chawla,E11486,D2-318,11:15 AM - 12:45 PM,2024-04-27,Ms Nikita,28
+33,CC,8TH ,Digital Image Processing Lab,20CSP-483,20BCC-2,A,35,Dr. Ranjan Walia,E14288,D2-306,1:15 PM - 2:45 PM,2024-04-26,Dr. Priyanka Kaushik,35
+33,AIML,6,Technical Training,21CSP-382,21AML-7,A,33,Mr.Aadi Pratap Singh,E15043,D2-308,3:00 PM - 4:30 PM,2024-04-27,Ms. Jayashree,33
+33,BE-CSE(H)-BDA,8th,DIGITAL IMAGE PROCESSING LAB,20CSP-483,20BDA-3,A,30,Ms. Sakshi,E16561,D2-410,9:30 AM - 11:00 AM,2024-04-27,Ms. Sakshi Gill,30
+33,IS,8,Big Data Security lab,20CSP-484,20BIS-2,A,26,Ms Ravneet Kaur,E11361,D2-412,11:15 AM - 12:45 PM,2024-04-29,Dr Gurpreet Singh,30
+34,CC,8TH ,Digital Image Processing Lab,20CSP-483,20BCC-2,B,35,Dr. Ranjan Walia,E14288,D2-306,1:15 PM - 2:45 PM,2024-04-27,Prabjot Singh Bali,35
+34,AIML,6,Technical Training,21CSP-382,21AML-7,B,35,Dr. Raghav Mehra,E16302,D2-415,9:30 AM - 11:00 AM,2024-04-29,Mr Abhishek Ankur,35
+34,BE-CSE(H)-BDA,8th,BIG DATA SECURITY LAB,20CSP-484,20BDA-3,A,30,Ms. Rituparna,E16660,D2-410,9:30 AM - 11:00 AM,2024-04-29,Ms. Ruksana,30
+34,IS,8,Big Data Security lab,20CSP-484,20BIS-2,B,28,Ms Ravneet Kaur,E11361,D2-318,11:15 AM - 12:45 PM,2024-04-29,Mr. Aman kumar,28
+35,AIML,6,Technical Training,21CSP-382,21AML-9,A,35,Ms. Nitika,E16159,D2-415,1:15 PM - 2:45 PM,2024-04-25,Ms Yashika Sharma,35
+35,BE-CSE(H)-BDA,8th,DIGITAL IMAGE PROCESSING LAB,20CSP-483,20BDA-3,B,32,Ms. Sakshi,E16561,D2-513,11:15 AM - 12:45 PM,2024-04-26,Dr. Amit Vajpayee,33
+35,IS,8,Digital Image Processing Lab,20CSP-483,20BIS-2,A,26,Ms Sheetal Laroiya,E15433,D2-412,1:15 PM - 2:45 PM,2024-04-26,Ms. Kirti,30
+36,AIML,6,Technical Training,21CSP-382,21AML-10,A,37,Mr.Jagjit Singh,E15190,D3-210,1:15 PM - 2:45 PM,2024-04-26,Mr. Anil Manohar Dogra,39
+36,BE-CSE(H)-BDA,8th,BIG DATA SECURITY LAB,20CSP-484,20BDA-3,B,32,Ms. Sakshi,E16561,D2-513,11:15 AM - 12:45 PM,2024-04-29,Ms.Priyanka Nanda,33
+36,IS,8,Digital Image Processing Lab,20CSP-483,20BIS-2,B,28,Ms Sheetal Laroiya,E15433,D2-318,1:15 PM - 2:45 PM,2024-04-25,Mr. Nikhil Agarwal,28
+37,AIML,6,Technical Training,21CSP-382,21AML-10,B,38,Mr.Jagjit Singh,E15190,D3-101,3:00 PM - 4:30 PM,2024-04-26,Mr Gurpreet Singh,45
+38,AIML,6,Technical Training,21CSP-382,21AML-12,B,32,Ms. Preeti,E16576,D3-211,1:15 PM - 2:45 PM,2024-04-27,Dr. Gurwinder Singh,41
+39,AIML,6,Technical Training,21CSP-382,21AML-2,B,37,Reema,E16536,D3-210,3:00 PM - 4:30 PM,2024-04-26,Ms. Bhavna Nayyar,39
+40,AIML,6,Technical Training,21CSP-382,21AML-2,A,34,Dr. . Mahadev,E13868,D2-512,9:30 AM - 11:00 AM,2024-04-27,Prabjot Singh Bali,36
+41,AIML,6,Technical Training,21CSP-382,21AML-3,A,33,Dr. U. Hariharan,E11201,D2-308,1:15 PM - 2:45 PM,2024-04-27,Ms. Rituparna,33
+42,AIML,6,Technical Training,21CSP-382,21AML-4,A,35,Dayal Chandra Sati,E13263,D2-307,1:15 PM - 2:45 PM,2024-04-29,Dr. Mohit Angurla,35
+43,AIML,6,Technical Training,21CSP-382,21AML-4,B,35,Dayal Chandra Sati,E13263,D2-307,3:00 PM - 4:30 PM,2024-04-25,Dr. navjeet Kaur,35
+44,AIML,6,Technical Training,21CSP-382,21AML-6,A,35,Tanvi,E15506,D2-414,1:15 PM - 2:45 PM,2024-04-26,Mr Saurabh Singhal,36
+45,AIML,6,Technical Training,21CSP-382,21AML-6,B,35,Tanvi,E15506,D2-414,3:00 PM - 4:30 PM,2024-04-26,Ms. Rituparna,36
+46,AIML,6,Technical Training,21CSP-382,21AML-8,B,34,Ms. Preeti,E16576,D2-512,11:15 AM - 12:45 PM,2024-04-27,Mr. Tejinder Pal Singh ,36
+47,AIML,6,Technical Training,21CSP-382,21AML-8,A,33,Prabjot Singh Bali,E16592,D2-317,11:15 AM - 12:45 PM,2024-04-26,Mr Abhishek Ankur,33
+48,AIML,6,Technical Training,21CSP-382,21AML-9,B,34,Ms Shivani Aggarwal,E11286,D2-512,1:15 PM - 2:45 PM,2024-04-25,Prabjot Kaur ,36
+49,AIML,6,Network Operating System Lab,21CSH-397,21AML-10,B,38,Ms. Shubhangi Mishra,E13142,D3-101,3:00 PM - 4:30 PM,2024-04-25,Mr. Sant Kumar Maurya,45
+50,AIML,6,Network Operating System Lab,21CSH-397,21AML-11,A,36,Ms.Sonali Kapoor,E15786,D2-207,3:00 PM - 4:30 PM,2024-04-27,Ms. Pavandeep Kaur,36
+51,AIML,6,Network Operating System Lab,21CSH-397,21AML-11,B,33,Ms.Sonali Kapoor,E15786,D2-308,11:15 AM - 12:45 PM,2024-04-29,Ms.Reema,33
+52,AIML,6,Network Operating System Lab,21CSH-397,21AML-12,A,36,Ms.Sonali Kapoor,E15786,D2-414,9:30 AM - 11:00 AM,2024-04-25,Mr. Javeid ,36
+53,AIML,6,Network Operating System Lab,21CSH-397,21AML-12,B,32,Ms.Sonali Kapoor,E15786,D2-513,3:00 PM - 4:30 PM,2024-04-25,Ms. Upasana Tiwari,33
+54,AIML,6,Network Operating System Lab,21CSH-397,21AML-2,A,34,Ms. Shubhangi Mishra,E13142,D2-512,9:30 AM - 11:00 AM,2024-04-26,Kushagra Agrawal,36
+55,AIML,6,Network Operating System Lab,21CSH-397,21AML-2,B,35,Ms. Shubhangi Mishra,E13142,D2-307,9:30 AM - 11:00 AM,2024-04-29,Prabjot Kaur ,35
+56,AIML,6,Network Operating System Lab,21CSH-397,21AML-10,A,37,Ms. Shubhangi Mishra,E13142,D3-210,1:15 PM - 2:45 PM,2024-04-27,Ms.Reema,39
+57,AIML,6,Network Operating System Lab,21CSH-397,21AML-3,A,33,Dayal Chandra Sati,E13263,D2-308,1:15 PM - 2:45 PM,2024-04-29,Ms. Bhavna Nayyar,33
+58,AIML,6,Network Operating System Lab,21CSH-397,21AML-3,B,32,Dayal Chandra Sati,E13263,D3-211,1:15 PM - 2:45 PM,2024-04-25,Dr. Jitender Kaushal,41
+59,AIML,6,Network Operating System Lab,21CSH-397,21AML-4,A,35,Dayal Chandra Sati,E13263,D2-307,3:00 PM - 4:30 PM,2024-04-26,Ms. Ruksana,35
+60,AIML,6,Network Operating System Lab,21CSH-397,21AML-4,B,35,Dayal Chandra Sati,E13263,D2-307,3:00 PM - 4:30 PM,2024-04-27,Mr. Ankur Gupta,35
+61,AIML,6,Network Operating System Lab,21CSH-397,21AML-5,A,37,Geetanjali,E15507,D3-211,9:30 AM - 11:00 AM,2024-04-25,Mr. Prabjot Singh Bali ,41
+62,AIML,6,Network Operating System Lab,21CSH-397,21AML-5,B,36,Geetanjali,E15507,D2-414,9:30 AM - 11:00 AM,2024-04-29,Mr Gurpreet Singh,36
+63,AIML,6,Network Operating System Lab,21CSH-397,21AML-7,A,33,Geetanjali,E15507,D2-308,3:00 PM - 4:30 PM,2024-04-26,Dr. Jitendre Kaushal,33
+64,AIML,6,Network Operating System Lab,21CSH-397,21AML-7,B,35,Geetanjali,E15507,D2-415,11:15 AM - 12:45 PM,2024-04-26,Ms Sheetal Laroiya,35
+65,AIML,6,Network Operating System Lab,21CSH-397,21AML-1,A,35,LATA GUPTA,E13365,D2-307,11:15 AM - 12:45 PM,2024-04-25,Dr. Navjeet Kaur,35
+66,AIML,6,Network Operating System Lab,21CSH-397,21AML-1,B,39,LATA GUPTA,E13365,D2-409,9:30 AM - 11:00 AM,2024-04-26,Dr. Deepti Sharma,43
+67,AIML,6,Network Operating System Lab,21CSH-397,21AML-6,A,35,Mr Namit Chawla,E11486,D2-414,3:00 PM - 4:30 PM,2024-04-25,Ms Nikita,36
+68,AIML,6,Network Operating System Lab,21CSH-397,21AML-6,B,35,Mr Namit Chawla,E11486,D2-414,3:00 PM - 4:30 PM,2024-04-27,Ms. Bhavna Nayyar,36
+69,AIML,6,Network Operating System Lab,21CSH-397,21AML-8,A,33,LATA GUPTA,E13365,D2-317,1:15 PM - 2:45 PM,2024-04-26,Mr. Yogiraj Anil Bhale ,33
+70,AIML,6,Network Operating System Lab,21CSH-397,21AML-8,B,34,LATA GUPTA,E13365,D2-512,11:15 AM - 12:45 PM,2024-04-25,Mr. Ankur Sharma,36
+71,AIML,6,Network Operating System Lab,21CSH-397,21AML-9,A,35,Dr. Mandeep Tinna,E13263,D2-415,1:15 PM - 2:45 PM,2024-04-26,Dr. Sonal Rattan,35
+72,AIML,6,Network Operating System Lab,21CSH-397,21AML-9,B,34,Ms Sheetal Laroiya,E15433,D2-512,11:15 AM - 12:45 PM,2024-04-29,Dr. Navjeet Kaur,36
+73,AIML,6,Natural Language Processing Lab,21CSH-399,21AML-10,A,37,Dr. Shikha Gupta,E8741,D3-210,1:15 PM - 2:45 PM,2024-04-29,Mr. Abhishek Tiwari,39
+74,AIML,6,Natural Language Processing Lab,21CSH-399,21AML-10,B,38,Dr. Shikha Gupta,E8741,D3-101,3:00 PM - 4:30 PM,2024-04-27,Dr. Amit Vajpayee,45
+75,AIML,6,Natural Language Processing Lab,21CSH-399,21AML-11,A,32,Dr Deepak Kumar,E11296,D2-513,3:00 PM - 4:30 PM,2024-04-27,Kushagra Agrawal,33
+76,AIML,6,Natural Language Processing Lab,21CSH-399,21AML-11,B,32,Dr Deepak Kumar,E11296,D3-211,11:15 AM - 12:45 PM,2024-04-26,Dr. Jitender ,41
+77,AIML,6,Natural Language Processing Lab,21CSH-399,21AML-12,A,35,Dr Deepak Kumar,E11296,D2-307,11:15 AM - 12:45 PM,2024-04-29,Ms Ravneet Kaur,35
+78,AIML,6,Natural Language Processing Lab,21CSH-399,21AML-3,A,33,Dr. Vineet Mehan,E13038,D2-308,1:15 PM - 2:45 PM,2024-04-26,Mr. Nikhil Agarwal,33
+79,AIML,6,Natural Language Processing Lab,21CSH-399,21AML-3,B,32,Dr. Vineet Mehan,E13038,D3-211,1:15 PM - 2:45 PM,2024-04-26,Dr. Monica Luthra,41
+80,AIML,6,Natural Language Processing Lab,21CSH-399,21AML-4,A,35,Dr. Vineet Mehan,E13038,D2-307,3:00 PM - 4:30 PM,2024-04-29,Ms. Rubbina ,35
+81,AIML,6,Natural Language Processing Lab,21CSH-399,21AML-5,A,37,Dr. Alankrita Aggarwal,E14496,D3-211,9:30 AM - 11:00 AM,2024-04-26,Mr. Probjot Singh Bali,41
+82,AIML,6,Natural Language Processing Lab,21CSH-399,21AML-5,B,36,Dr. Alankrita Aggarwal,E14496,D2-414,11:15 AM - 12:45 PM,2024-04-25,Ms Gurpreet Kaur,36
+83,AIML,6,Natural Language Processing Lab,21CSH-399,21AML-6,A,35,Dr. Alankrita Aggarwal,E14496,D2-414,3:00 PM - 4:30 PM,2024-04-29,Mr. Prabjot Singh Bali ,36
+84,AIML,6,Natural Language Processing Lab,21CSH-399,21AML-6,B,35,Dr. Alankrita Aggarwal,E14496,D2-415,9:30 AM - 11:00 AM,2024-04-25,Mr. Probjot Singh Bali,35
+85,AIML,6,Natural Language Processing Lab,21CSH-399,21AML-9,A,35,Ms Shivani Aggarwal,E11286,D2-415,3:00 PM - 4:30 PM,2024-04-25,Dr. Vijay Bhardwaj,35
+86,AIML,6,Natural Language Processing Lab,21CSH-399,21AML-9,B,34,Ms Shivani Aggarwal,E11286,D2-512,1:15 PM - 2:45 PM,2024-04-26,Reema,36
+87,AIML,6,Natural Language Processing Lab,21CSH-399,21AML-1,A,35,Shweta Chauhan,E14380,D2-307,11:15 AM - 12:45 PM,2024-04-27,Ms. Sakshi,35
+88,AIML,6,Natural Language Processing Lab,21CSH-399,21AML-1,B,39,Shweta Chauhan,E14380,D2-409,9:30 AM - 11:00 AM,2024-04-27,Mr Abhishek Ankur,43
+89,AIML,6,Natural Language Processing Lab,21CSH-399,21AML-12,B,31,Ms. Preeti,E16576,D3-211,3:00 PM - 4:30 PM,2024-04-29,Mr. Saurav Chauhan ,41
+90,AIML,6,Natural Language Processing Lab,21CSH-399,21AML-2,B,35,Dr. Raghav Mehra,E16302,D2-307,1:15 PM - 2:45 PM,2024-04-26,Dr. Kamaljeet Saini,35
+91,AIML,6,Natural Language Processing Lab,21CSH-399,21AML-2,A,34,Ms. Preeti,E16576,D2-512,9:30 AM - 11:00 AM,2024-04-29,Dr. Gurwinder Singh,36
+92,AIML,6,Natural Language Processing Lab,21CSH-399,21AML-4,B,35,Ms. Preeti,E16576,D2-414,11:15 AM - 12:45 PM,2024-04-29,Mr. Krishna Kaushal Singh,36
+93,AIML,6,Natural Language Processing Lab,21CSH-399,21AML-7,A,33,Dr. Satinderjeet Kaur,E15282,D2-308,3:00 PM - 4:30 PM,2024-04-29,Mr. Pulkit dwivedi,33
+94,AIML,6,Natural Language Processing Lab,21CSH-399,21AML-7,B,35,Dr. Satinderjeet Kaur,E15282,D2-415,11:15 AM - 12:45 PM,2024-04-25,Mr. Yogiraj Anil Bhale ,35
+95,AIML,6,Natural Language Processing Lab,21CSH-399,21AML-8,A,33,Dr. Satinderjeet Kaur,E15282,D2-317,9:30 AM - 11:00 AM,2024-04-25,Ms Anudeep Kaur,33
+96,AIML,6,Natural Language Processing Lab,21CSH-399,21AML-8,B,34,Dr. Satinderjeet Kaur,E15282,D2-512,11:15 AM - 12:45 PM,2024-04-26,Mr. Jaswinder,36
+97,AIML,6,Artificial Intelligence Lab,21CSH-398,21AML-10,B,38,Dr. Jitendre Kaushal,E14621,D3-101,3:00 PM - 4:30 PM,2024-04-29,Ms Gurpreet Kaur,45
+98,AIML,6,Artificial Intelligence Lab,21CSH-398,21AML-10,A,37,Dr. Ratish Kumar,E14394,D3-210,3:00 PM - 4:30 PM,2024-04-25,Ms. Rituparna,39
+99,AIML,6,Artificial Intelligence Lab,21CSH-398,21AML-12,A,35,Mr.Jagjit Singh,E15190,D2-307,1:15 PM - 2:45 PM,2024-04-25,Ms. Pragatie Ahluwalia,35
+100,AIML,6,Artificial Intelligence Lab,21CSH-398,21AML-12,B,31,Mr.Jagjit Singh,E15190,D3-211,3:00 PM - 4:30 PM,2024-04-27,Reema,41
+101,AIML,6,Artificial Intelligence Lab,21CSH-398,21AML-2,A,35,Neeru Bala,E13122,D2-307,1:15 PM - 2:45 PM,2024-04-27,Ms. Sakshi Gill,35
+102,AIML,6,Artificial Intelligence Lab,21CSH-398,21AML-2,B,37,Neeru Bala,E13122,D3-210,3:00 PM - 4:30 PM,2024-04-27,Dr. Alankrita Aggarwal,39
+103,AIML,6,Artificial Intelligence Lab,21CSH-398,21AML-3,A,33,Dr. Priyanka Kaushik,E13618,D2-308,3:00 PM - 4:30 PM,2024-04-25,Mr. Prabjot Singh Bali ,33
+104,AIML,6,Artificial Intelligence Lab,21CSH-398,21AML-3,B,32,Dr. Priyanka Kaushik,E13618,D3-211,1:15 PM - 2:45 PM,2024-04-29,Ms. Mansi Kajal,41
+105,AIML,6,Artificial Intelligence Lab,21CSH-398,21AML-4,B,35,Nirmalya Basu,E13248,D2-414,1:15 PM - 2:45 PM,2024-04-27,Ms. Shweta,36
+106,AIML,6,Artificial Intelligence Lab,21CSH-398,21AML-4,A,35,Dr. Priyanka Kaushik,E13618,D2-414,1:15 PM - 2:45 PM,2024-04-29,Mr. Anil Manohar Dogra,36
+107,AIML,6,Artificial Intelligence Lab,21CSH-398,21AML-5,A,37,Nirmalya Basu,E13248,D3-211,9:30 AM - 11:00 AM,2024-04-27,Neha Sharma ,41
+108,AIML,6,Artificial Intelligence Lab,21CSH-398,21AML-6,B,35,Neeru Bala,E13122,D2-415,9:30 AM - 11:00 AM,2024-04-26,Dr. Jitendre Kaushal,35
+109,AIML,6,Artificial Intelligence Lab,21CSH-398,21AML-6,A,35,Nirmalya Basu,E13248,D2-415,9:30 AM - 11:00 AM,2024-04-27,Dr. Ratish Kumar,35
+110,AIML,8,Technical Training,21CSP-382,21AML-8,A,35,Dr. Jitender Kaushal,E14621,D2-415,11:15 AM - 12:45 PM,2024-04-29,Mr Yogiraj Bhale,35
+111,AIML,6,Artificial Intelligence Lab,21CSH-398,21AML-7,A,33,Mr. Rosevir Singh,E16685,D2-317,9:30 AM - 11:00 AM,2024-04-26,Dr. Shikha Gupta,33
+112,AIML,6,Artificial Intelligence Lab,21CSH-398,21AML-7,B,35,Mr. Rosevir Singh,E16685,D2-415,11:15 AM - 12:45 PM,2024-04-27,Ms Anudeep Kaur,35
+113,AIML,6,Artificial Intelligence Lab,21CSH-398,21AML-8,A,33,Mr. Rosevir Singh,E16685,D2-317,9:30 AM - 11:00 AM,2024-04-29,Shweta Chauhan,33
+115,AIML,6,Artificial Intelligence Lab,21CSH-398,21AML-5,B,36,Nirmalya Basu,E13248,D2-414,11:15 AM - 12:45 PM,2024-04-27,Dr. . Mahadev,36
+116,AIML,6,Artificial Intelligence Lab,21CSH-398,21AML-9,A,35,Dr. Ratish Kumar,E14394,D2-415,1:15 PM - 2:45 PM,2024-04-27,Mr. Nikhil,35
+117,AIML,6,Artificial Intelligence Lab,21CSH-398,21AML-9,B,34,Dr. Ratish Kumar,E14394,D2-512,1:15 PM - 2:45 PM,2024-04-27,ANKUR GUPTA,36
+118,AIML,6,Artificial Intelligence Lab,21CSH-398,21AML-1,A,35,Neeru Bala,E13122,D2-307,11:15 AM - 12:45 PM,2024-04-26,Dr. Mandeep Tinna,35
+119,AIML,6,Artificial Intelligence Lab,21CSH-398,21AML-1,B,39,Neeru Bala,E13122,D2-409,9:30 AM - 11:00 AM,2024-04-29,Ms Sheetal Laroiya,43
+120,AIML,6,Artificial Intelligence Lab,21CSH-398,21AML-11,A,32,Mr.Jagjit Singh,E15190,D2-513,3:00 PM - 4:30 PM,2024-04-29,Mr. Mohit Lalit,33
+121,AIML,6,Artificial Intelligence Lab,21CSH-398,21AML-11,B,32,Mr.Jagjit Singh,E15190,D3-211,11:15 AM - 12:45 PM,2024-04-27,Dr. Ranjan Walia,41
+123,AIML,4,Programming in python Lab,22CSH-287,22AIT_KRG-1,B,19,Reema,E16536,D2-508,11:15 AM - 12:45 PM,2024-04-26,Mr. Nikhil,27
+124,AIML,4,XML,22CSH-291,22AIT_KRG-1,B,19,Dr. Mandeep Tinna,E1326,D2-514,9:30 AM - 11:00 AM,2024-04-25,Mr. Digvijay Puri,30
+125,AIML,4,IT Auditing,22CST-294,22AIT_KRG-1,B,19,Dr. Mandeep Tinna,E1326,D2-508,11:15 AM - 12:45 PM,2024-04-27,Ms.Prabhjot Kaur,27
+126,AIML,4,Cloud Computing,22CST-290,22AIT_KRG-1,B,19,Mr. Digvijay Puri,E10051,D2-508,1:15 PM - 2:45 PM,2024-04-27,Mr Tejinderpal Singh,27
+127,AIML,4,Business Intelligence,22CST-291,22AIT_KRG-1,B,19,Ms. Sakshi Gill,E16561,D2-508,1:15 PM - 2:45 PM,2024-04-25,Ms.Aarti,27
+128,AIML,4,Micro Processor and Microcontroller,22CSH-295,22AIT_KRG-1,B,19,Mr. Nikhil,E9191,D2-508,11:15 AM - 12:45 PM,2024-04-29,Dr.Preet Kamal,27
+129,AIML,4,XML,22CSH-291,22AIT_KRG-1,A,34,Dr. Mandeep Tinna,E1326,D2-512,1:15 PM - 2:45 PM,2024-04-29,Ms. Sakshi,36
+130,AIML,4,Design and Analysis of Algorithms Lab,22CSH-282,22AIT_KRG-1,A,34,Mr. Probjot Singh Bali,E16592,D2-512,3:00 PM - 4:30 PM,2024-04-26,Ms. Pragatie Ahluwalia,36
+131,AIML,4,Machine Learning Lab,22CSH-286,22AIT_KRG-1,A,34,Mr. Aman kumar,E15868,D2-512,3:00 PM - 4:30 PM,2024-04-25,Dr. Kamaljeet Saini,36
+132,AIML,4,Programming in Python Lab,22CSH-287,22AIT_KRG-1,A,34,Dr. Mohit Angurla,E15400,D2-512,3:00 PM - 4:30 PM,2024-04-29,Ms. Sakshi Gill,36
+133,AIML,4,Machine learning Lab,22CSH-286,22AML-1,A,38,Dr. Madan Lal Saini,E13485,D3-209-A,9:30 AM - 11:00 AM,2024-04-25,Siddharth Kumar,41
+134,AIML,4,Programming in Python Lab,22CSH-287,22AML-1,A,38,Siddharth Kumar,E12853,D3-209-A,9:30 AM - 11:00 AM,2024-04-26,Dr. . Mahadev,41
+135,AIML,4,Design and Analysis of Algorithms Lab,22CSH-282,22AML-1,A,38,kalpana singh,E14950,D3-209-A,9:30 AM - 11:00 AM,2024-04-27,Ms.Priyanka Nanda,41
+136,AIML,4,Machine learning Lab,22CSH-286,22AML-1,B,38,Dr. Madan Lal Saini,E13485,D3-209-A,9:30 AM - 11:00 AM,2024-04-29,Dr. Ankit Garg,41
+137,AIML,4,Programming in Python Lab,22CSH-287,22AML-1,B,38,Siddharth Kumar,E12853,D3-209-A,11:15 AM - 12:45 PM,2024-04-25,Dr Gurpreet Singh,41
+138,AIML,4,Design and Analysis of Algorithms Lab,22CSH282,22AML-1,B,38,kalpana singh,E14950,D3-209-A,11:15 AM - 12:45 PM,2024-04-26,Tanvi,41
+139,AIML,4,Design and Analysis of Algorithms Lab,22CSH-282,22AML-2,B,38,Mr. Raghav Mehra,E16302,D3-209-A,11:15 AM - 12:45 PM,2024-04-27,Ms.Merry,41
+140,AIML,4,Programming in Python Lab,22CSH-287,22AML-2,B,38,Ms.Aarti,E15380,D3-209-A,11:15 AM - 12:45 PM,2024-04-29,Dr. Dhawan Singh,41
+141,AIML,2,Machine learning Lab,22CSH-286,22AML-2,B,38,Shaveta Jain,E13464,D3-209-A,1:15 PM - 2:45 PM,2024-04-25,Dr Deepak Kumar,41
+142,AIML,2,Machine learning Lab,22CSH-286,22AML-2,A,38,Shaveta Jain,E13464,D3-209-A,1:15 PM - 2:45 PM,2024-04-26,Dr. Surender Chauhan,41
+143,AIML,4,Programming in Python Lab,22CSH-287,22AML-2,A,38,Siddharth Kumar,E12853,D3-209-A,1:15 PM - 2:45 PM,2024-04-27,Ms. Upasana Tiwari,41
+144,AIML,4,Design and Analysis of Algorithms Lab,22CSH282,22AML-2,A,38,Ms. Upasana Tiwari,E15791,D3-209-A,1:15 PM - 2:45 PM,2024-04-29,Mr.Aadi Pratap Singh,41
+145,AIML,4,Design and Analysis of Algorithms Lab,22CSH-282,22AML-3,A,39,Amanpreet Kaur,E13022,D2-409,11:15 AM - 12:45 PM,2024-04-25,Ms Shivani Aggarwal,43
+146,AIML,4,Programming in Python Lab,22CSH-287,22AML-3,A,39,Kushagra Agrawal,E13465,D2-409,11:15 AM - 12:45 PM,2024-04-26,Dayal Chandra Sati,43
+147,AIML,4,Machine learning Lab,22CSH-286,22AML-3,A,39,Dr. Madan Lal Saini,E13485,D2-409,11:15 AM - 12:45 PM,2024-04-27,Mr. Yogiraj Anil Bhale ,43
+148,AIML,4,Programming in Python Lab,22CSH-287,22AML-3,B,40,Mr Saurabh Singhal,E12800,D2-408,9:30 AM - 11:00 AM,2024-04-27,Ms. Rituparna,46
+149,AIML,4,Design and Analysis of Algorithms Lab,22CSH-283,22AML-3,B,40,Amanpreet Kaur,E13851,D2-408,9:30 AM - 11:00 AM,2024-04-29,Ms Nikita,46
+150,AIML,4,Machine learning Lab,22CSH-286,22AML-3,B,40,Dr. Madan Lal Saini,E13485,D2-408,11:15 AM - 12:45 PM,2024-04-25,Ms. Bhavna Nayyar,46
+151,AIML,4,Design and Analysis of Algorithms Lab,22CSH-282,22AML-4,B,39,Ms. Kirti,E16189,D2-409,11:15 AM - 12:45 PM,2024-04-29,Ms Anudeep Kaur,43
+152,AIML,4,Machine learning Lab,22CSH-286,22AML-4,B,39,Shaveta Jain,E13464,D2-409,1:15 PM - 2:45 PM,2024-04-25,Mr Yogiraj Bhale,43
+153,AIML,4,Programming in Python Lab,22CSH-287,22AML-4,B,39,Ms. Ruksana,E16227,D2-409,1:15 PM - 2:45 PM,2024-04-26,Ms Yashika Sharma,43
+154,AIML,4,Programming in Python Lab,22CSH-287,22AML-4,A,38,Kushagra Agrawal,E13465,D3-209-A,3:00 PM - 4:30 PM,2024-04-25,Dr. Monika Singh,41
+155,AIML,4,Design and Analysis of Algorithms Lab,22CSH-282,22AML-4,A,38,Ms. Kirti,E16189,D3-209-A,3:00 PM - 4:30 PM,2024-04-26,Ms Komal Mehta,41
+156,AIML,4,Machine learning Lab,22CSH-286,22AML-4,A,38,Shaveta Jain,E13464,D3-209-A,3:00 PM - 4:30 PM,2024-04-27,Nirmalya Basu,41
+157,AIML,4,Design and Analysis of Algorithms Lab,22CSH-282,22AML-5,A,38,Ms. Nitika,E16159,D3-209-A,3:00 PM - 4:30 PM,2024-04-29,Dr. Priyanka Kaushik,41
+158,AIML,4,Programming in Python Lab,22CSH-287,22AML-5,A,38,Mr. Mohit Lalit,E13845,D3-209,9:30 AM - 11:00 AM,2024-04-25,Prabjot Singh Bali,40
+159,AIML,4,Machine learning Lab,22CSH-286,22AML-5,A,38,Ms.Aarti,E15380,D3-209,9:30 AM - 11:00 AM,2024-04-26,Dr. U. Hariharan,40
+160,AIML,4,Machine learning Lab,22CSH-286,22AML-5,B,39,Ms.Aarti,E15380,D2-409,1:15 PM - 2:45 PM,2024-04-27,Dr. Sonal Rattan,43
+161,AIML,4,Design and Analysis of Algorithms Lab,22CSH-282,22AML-5,B,39,Ms. Nitika,E16159,D2-409,1:15 PM - 2:45 PM,2024-04-29,Mr Swapnil Raj,43
+162,AIML,4,Programming in Python Lab,22CSH-287,22AML-5,B,39,Mr. Mohit Lalit,E13845,D2-409,3:00 PM - 4:30 PM,2024-04-25,Mr. Rosevir Singh,43
+163,AIML,4,Machine learning Lab,22CSH-286,22AML-6,A,38,Ms.Aarti,E15380,D3-209,9:30 AM - 11:00 AM,2024-04-27,Dr. Jitender ,40
+164,AIML,4,Design and Analysis of Algorithms Lab,22CSH-282,22AML-6,A,38,Ms. Nitika,E16159,D3-209,9:30 AM - 11:00 AM,2024-04-29,Dr. Ranjan Walia,40
+165,AIML,4,Programming in Python Lab,22CSH-287,22AML-6,A,38,Mr. Mohit Lalit,E13845,D3-209,11:15 AM - 12:45 PM,2024-04-25,Dr. Gurwinder Singh,40
+166,AIML,4,Design and Analysis of Algorithms Lab,22CSH-282,22AML-6,B,38,Ms. Nitika,E16159,D3-209,11:15 AM - 12:45 PM,2024-04-26,Dr. Amit Kukker,40
+167,AIML,4,Machine learning Lab,22CSH-286,22AML-6,B,38,Ms.Aarti,E15380,D3-209,11:15 AM - 12:45 PM,2024-04-27,Mr. Ankur Sharma,40
+168,AIML,6,Programming in Python Lab,22CSH-287,22AML-6,B,35,Shaveta Jain,E13464,D2-415,1:15 PM - 2:45 PM,2024-04-29,Mr. Digvijay Puri,35
+169,AIML,4,Design and Analysis of Algorithms Lab,22CSH-282,22AML-8,A,38,Dr. Mandeep Tinna,E1326,D3-209,11:15 AM - 12:45 PM,2024-04-29,Dr. Jitender Kaushal,40
+170,AIML,4,Machine Learning Lab,22CSH-286,22AML-8,A,38,Mr. Aman kumar,E15868,D3-209,1:15 PM - 2:45 PM,2024-04-25,Ms. Preeti,40
+171,AIML,4,Programming in Python Lab,22CSH-287,22AML-8,A,38,Dr. Mohit Angurla,E15400,D3-209,1:15 PM - 2:45 PM,2024-04-26,Mr Namit Chawla,40
+172,AIML,4,Design and Analysis of Algorithms Lab,22CSH-282,22AML-8,B,39,Ms. Nitika,E16159,D2-409,3:00 PM - 4:30 PM,2024-04-26,Mr. Raghav Mehra,43
+173,AIML,4,Programming in Python Lab,22CSH-287,22AML-8,B,39,Mr. Uzzal Mondal,E16641,D2-409,3:00 PM - 4:30 PM,2024-04-27,Dr. Vijay Bhardwaj,43
+174,AIML,4,Machine Learning Lab,22CSH-286,22AML-8,B,39,Mr. Aman kumar,E15868,D2-409,3:00 PM - 4:30 PM,2024-04-29,kalpana singh,43
+175,AIML,4,Programming in Python Lab,22CSH-287,22AML-9,A,38,Mr. Jaswinder,E15978,D3-209,1:15 PM - 2:45 PM,2024-04-27,Dr. Satinderjeet Kaur,40
+176,AIML,4,Design and Analysis of Algorithms Lab,22CSH-282,22AML-9,A,38,Ms. Kirti,E16189,D3-209,1:15 PM - 2:45 PM,2024-04-29,Ms Sakshi Kattna,40
+177,AIML,4,Machine Learning Lab,22CSH-286,22AML-9,A,38,Mr. Raghav Mehra,E16302,D3-209,3:00 PM - 4:30 PM,2024-04-25,Dr. Vineet Mehan,40
+178,AIML,4,Programming in Python Lab,22CSH-287,22AML-9,B,38,Mr. Jaswinder,E15978,D3-209,3:00 PM - 4:30 PM,2024-04-26,Prabjot Kaur ,40
+179,AIML,4,Design and Analysis of Algorithms Lab,22CSH-282,22AML-9,B,38,Mr. Raghav Mehra,E16302,D3-209,3:00 PM - 4:30 PM,2024-04-27,Mr. Saurav Chauhan ,40
+180,AIML,4,Machine Learning Lab,22CSH-286,22AML-9,B,38,Mr. Raghav Mehra,E16302,D3-209,3:00 PM - 4:30 PM,2024-04-29,Dr. Navjeet Kaur,40
+181,AIML,4,Programming in Python Lab,22CSH-287,22AML-10,A,17,Mr. Jaswinder,E15978,D2-508,3:00 PM - 4:30 PM,2024-04-27,Dr. Raghav Mehra,27
+182,AIML,4,Design and Analysis of Algorithms Lab,22CSH282,22AML-10,A,17,Ms. Upasana Tiwari,E15791,D2-508,3:00 PM - 4:30 PM,2024-04-29,Amanpreet Kaur,27
+183,AIML,4,Machine Learning Lab,22CSH-286,22AML-10,A,17,Ms. Ruksana,E16227,D2-508,1:15 PM - 2:45 PM,2024-04-29,Mr. Gaurav Soni,27
+184,AIML,4,Programming in Python Lab,22CSH-287,22AML-10,B,15,Mr. Sant Kumar Maurya,E13548,D2-514,9:30 AM - 11:00 AM,2024-04-26,Mr. Javaid ,30
+185,AIML,4,Machine Learning Lab,22CSH-286,22AML-10,B,15,Ms. Ruksana,E16227,D2-514,9:30 AM - 11:00 AM,2024-04-27,Dr. Amit Vajpayee,30
+186,AIML,4,Design and Analysis of Algorithms Lab,22CSH282,22AML-10,B,15,Ms. Upasana Tiwari,E15791,D2-514,9:30 AM - 11:00 AM,2024-04-29,Siddharth Kumar,30
+187,AIML,4,Programming in Python Lab,22CSH-287,22AML-11,A,19,Mr. Sant Kumar Maurya,E13548,D2-508,3:00 PM - 4:30 PM,2024-04-25,Ms. Rubbina,27
+188,AIML,4,Design and Analysis of Algorithms Lab,22CSH282,22AML-11,A,19,Ms. Upasana Tiwari,E15791,D2-508,3:00 PM - 4:30 PM,2024-04-26,Mr. Javeid ,27
+189,AIML,4,Machine Learning Lab,22CSH-286,22AML-11,A,19,Ms. Ruksana,E16227,D2-508,1:15 PM - 2:45 PM,2024-04-26,Ms. Geetanjali Pandey,27
+190,AIML,4,Programming in Python Lab,22CSH-287,22AML-11,B,10,Mr. Sant Kumar Maurya,E13548,D2-514,1:15 PM - 2:45 PM,2024-04-26,Dr. . Mahadev,30
+191,AIML,4,Machine Learning Lab,22CSH-286,22AML-11,B,10,Ms. Ruksana,E16227,D2-514,11:15 AM - 12:45 PM,2024-04-25,Ms.Priyanka Nanda,30
+192,AIML,4,Design and Analysis of Algorithms Lab,22CSH282,22AML-11,B,10,Ms. Upasana Tiwari,E15791,D2-514,11:15 AM - 12:45 PM,2024-04-27,Dr Gurpreet Singh,30
